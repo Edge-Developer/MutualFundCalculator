@@ -14,10 +14,10 @@ class Money(val isInvSummary: Boolean) {
     var year: String? = null
     var money: String? = null
     private var summary = ""
-    var month: List<Month>? = null
+    var month: List<Month> = ArrayList()
 
     init {
-        month = ArrayList()
+
     }
 
     fun getSummary(): CharSequence {
@@ -44,4 +44,5 @@ class Money(val isInvSummary: Boolean) {
         else
             View.INVISIBLE
     }
+
 }

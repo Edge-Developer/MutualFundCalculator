@@ -26,8 +26,8 @@ class InvestmentDetail : Fragment() {
         mMonthAdapter = MonthAdapter()
         recyclerView.adapter = mMonthAdapter
 
-        val months = Singleton.getInstance().findMoney(year)!!.month
-        mMonthAdapter!!.addMonths(months)
+        val months : List<Month> = Singleton.getInstance().findMoney(year)!!.month
+        mMonthAdapter.addMonths(months)
         return view
     }
 

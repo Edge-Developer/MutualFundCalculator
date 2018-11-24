@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
         mAdView.loadAd(adRequest);
         RecyclerView recyclerView = binding.recyclerView;
 
-        final RecyclerViewAdapter adapter = new RecyclerViewAdapter(this);
+        final RecyclerViewAdapter adapter = new RecyclerViewAdapter(this, new ArrayList());
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         recyclerView.setAdapter(adapter);

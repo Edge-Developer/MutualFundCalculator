@@ -19,13 +19,7 @@ import io.edgedev.investment_calc.databinding.SingleYearBinding
  * Created by OPEYEMI OLORUNLEKE on 6/2/2017.
  */
 
-class RecyclerViewAdapter(private val mCallback: Callback) : RecyclerView.Adapter<RecyclerViewAdapter.MoneyHolder>() {
-
-    internal var mList: MutableList<Money>
-
-    init {
-        mList = ArrayList()
-    }
+class RecyclerViewAdapter(private val mCallback: Callback, var mList: MutableList<Money> = ArrayList()) : RecyclerView.Adapter<RecyclerViewAdapter.MoneyHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MoneyHolder {
         val inflater = LayoutInflater.from(parent.context)
