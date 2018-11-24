@@ -119,7 +119,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
         binding.calcBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                adapter.mList.clear();
+                adapter.getMList().clear();
                 adapter.notifyDataSetChanged();
 
                 if (TextUtils.isEmpty(initialInvestmentEditTxt.getText().toString())

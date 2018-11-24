@@ -75,7 +75,7 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
         viewPager.adapter = object : FragmentStatePagerAdapter(fragmentManager) {
             override fun getItem(position: Int): Fragment {
                 val money = mMoneyList!![position]
-                return InvestmentDetail.newInstance(money.year)
+                return InvestmentDetail.newInstance(money.year!!)
             }
 
             override fun getCount(): Int {
@@ -96,7 +96,7 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
 
             override fun onPageSelected(position: Int) {
                 val money = mMoneyList!![position]
-                setSubtitle(money.year)
+                setSubtitle(money.year!!)
 
             }
 
