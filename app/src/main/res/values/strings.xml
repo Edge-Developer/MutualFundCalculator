@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mutual Fund Calculator</string>
+
+    <string name="app_link" translatable="false">bit.ly/Mutual-Fund-Calc</string>
+
+    <string name="banner_ad_unit_main_activity" translatable="false">ca-app-pub-9297690518647609/5607088170</string>
+    <string name="banner_ad_unit_details" translatable="false">ca-app-pub-9297690518647609/7083821376</string>
+    <string name="interstitial_main_activity">ca-app-pub-9297690518647609/8779591733</string>
+    <string name="interstitial_detail_activity">ca-app-pub-9297690518647609/9366479747</string>
+
+    <!--<string name="banner_ad_unit_main_activity">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_details">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_main_activity">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_detail_activity">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <string name="sub_format">%1$s %2$s %3$s%4$s%5$s Per Annum</string>
+    <string name="initial_investment">Initial Investment (Lump Sum)</string>
+    <string name="monthly_investment">Monthly Investment</string>
+    <string name="interest_per_annum">Interest (Per Annum %)</string>
+    <string name="calculate_roi">Calculate R.O.I</string>
+    <string name="tenure_in_years">Tenure In Years</string>
+    <string name="details">Details</string>
+    <string name="month">Month</string>
+    <string name="start">\@Start</string>
+    <string name="investment">Investment</string>
+    <string name="interest">Interest</string>
+    <string name="end">\@End</string>
+    <string name="investment_summary">#FunFact&lt;br>&lt;br>Do you know, If you Initially Invested &lt;b>%1$s&lt;/b> into Mutual Funds at &lt;b>%2$s%% interest rate&lt;/b> &amp; you keep adding &lt;b>%3$s every month&lt;/b>, at the end of &lt;b>%4$d Years&lt;/b> you would have had &lt;b>%5$s&lt;/b> which is &lt;b>%6$s%% greater&lt;/b> than your initial investment. &lt;br>#CompoundInterest #SavingsGoal</string>
+    <string name="share">Share</string>
+    <string name="little_extra">This is a better way to save money. Calculate your Mutual Fund R.O.I &amp; more, with the Mutual Fund Calculator App</string>
+
+
+</resources>

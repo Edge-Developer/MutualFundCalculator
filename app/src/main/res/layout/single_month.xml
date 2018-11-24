@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="month"
+            type="io.edgedev.investment_calc.Month"/>
+    </data>
+
+    <LinearLayout
+        android:id="@+id/l_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="4dp"
+        android:padding="4dp"
+        android:gravity="center">
+
+        <TextView
+            style="@style/month_style"
+            android:layout_weight="0.4"
+            android:text="@{month.monthIndex}"
+            tools:text="12"/>
+
+        <TextView
+            style="@style/month_style"
+            android:text="@{month.balanceAtStart}"
+            tools:text="160,000, 000"/>
+
+        <TextView
+            style="@style/month_style"
+            android:text="@{month.investment}"
+            tools:text="5,000"/>
+
+        <TextView
+            style="@style/month_style"
+            android:text="@{month.interest}"
+            tools:text="27,100"/>
+
+        <TextView
+            style="@style/month_style"
+            android:text="@{month.balanceAtEnd}"
+            tools:text="186,700"/>
+    </LinearLayout>
+</layout>

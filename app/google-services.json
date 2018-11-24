@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "369314897138",
+    "firebase_url": "https://studentpersonalmanager.firebaseio.com",
+    "project_id": "studentpersonalmanager",
+    "storage_bucket": "studentpersonalmanager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369314897138:android:4732a9f4396edde1",
+        "android_client_info": {
+          "package_name": "io.edgedev.studentpersonalmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369314897138-v1ifduadpm5cs18rov7crkesf2p7ponn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.edgedev.studentpersonalmanager",
+            "certificate_hash": "0ec0f0cfc9f9f2c17ecf10cee378c4c41483e5c8"
+          }
+        },
+        {
+          "client_id": "369314897138-bc8ssievjettb5ijo3nces349k4ufu0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkU4U1dBRHLFX6bvKJkow8hYpC5euhJMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369314897138-bc8ssievjettb5ijo3nces349k4ufu0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369314897138:android:39836754553266fe",
+        "android_client_info": {
+          "package_name": "io.edgedev.investment_calc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369314897138-l70vnvocavpet8di13j3i6tu8qmu2o3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.edgedev.investment_calc",
+            "certificate_hash": "0ec0f0cfc9f9f2c17ecf10cee378c4c41483e5c8"
+          }
+        },
+        {
+          "client_id": "369314897138-bc8ssievjettb5ijo3nces349k4ufu0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkU4U1dBRHLFX6bvKJkow8hYpC5euhJMU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369314897138-bc8ssievjettb5ijo3nces349k4ufu0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
