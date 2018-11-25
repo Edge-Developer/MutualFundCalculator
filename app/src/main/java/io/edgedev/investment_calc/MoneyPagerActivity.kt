@@ -21,45 +21,16 @@ import com.google.android.gms.ads.AdView
 import com.google.android.gms.ads.InterstitialAd
 
 class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
-    private var actionBar: ActionBar? = null
+    private lateinit var actionBar: ActionBar
     private var percentage: String? = null
-    private var next: ImageView? = null
-    private var previous: ImageView? = null
+    private lateinit var next: ImageView
+    private lateinit var previous: ImageView
     private lateinit var viewPager: ViewPager
-    private var mAdView: AdView? = null
+    private lateinit var mAdView: AdView
 
     private var mMoneyList: List<Money>? = null
     private lateinit var mInterstitialAd: InterstitialAd
     private var incrementToShowAd = 1
-
-
-    override fun onPause() {
-        super.onPause()
-        mAdView!!.pause()
-    }
-
-    override fun onResume() {
-        super.onResume()
-        mAdView!!.resume()
-    }
-
-    override fun onDestroy() {
-        super.onDestroy()
-        mAdView!!.destroy()
-    }
-    inner class MyPagerAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
-        override fun getItem(position: Int): Fragment {
-            val money = mMoneyList!![position]
-            return InvestmentDetail.newInstance(money.year!!)
-        }
-
-        override fun getCount(): Int {
-            return mMoneyList!!.size
-        }
-        fun onPageSelected(position: Int) {
-            toggleArrows(position)
-        }
-    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -78,10 +49,11 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
         percentage = intent.getStringExtra(PER_CENT_SUBTITLE_KEY)
         mMoneyList = Singleton.getInstance().moneyList
 
-        actionBar = supportActionBar
-        assert(actionBar != null)
+        val actBar = supportActionBar
+
+        if (!(actBar==null)) actionBar = actBar
         setSubtitle(year)
-        actionBar!!.setDisplayHomeAsUpEnabled(true)
+        actionBar.setDisplayHomeAsUpEnabled(true)
 
         viewPager = findViewById(R.id.money_viewpager)
         val fragmentAdapter =MyPagerAdapter(supportFragmentManager)
@@ -111,42 +83,57 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
 
         next = findViewById(R.id.next)
         previous = findViewById(R.id.previous)
-        next!!.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_right))
-        previous!!.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_left))
-        next!!.setOnClickListener(this)
-        previous!!.setOnClickListener(this)
+        next.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_right))
+        previous.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_left))
+        next.setOnClickListener(this)
+        previous.setOnClickListener(this)
 
         toggleArrows(viewPager.currentItem)
 
         mAdView = findViewById(R.id.adView)
         val adRequest = AdRequest.Builder().build()
-        mAdView!!.loadAd(adRequest)
+        mAdView.loadAd(adRequest)
+    }
+
+    override fun onPause() {
+        super.onPause()
+        mAdView.pause()
+    }
+
+    override fun onResume() {
+        super.onResume()
+        mAdView.resume()
+    }
+
+    override fun onDestroy() {
+        super.onDestroy()
+        mAdView.destroy()
     }
 
     private fun toggleArrows(currentItemIndex: Int) {
         val mViewPagerCount = viewPager.adapter!!.count
         if (currentItemIndex + 1 == mViewPagerCount) {
-            next!!.clearAnimation()
-            next!!.visibility = View.INVISIBLE
+            next.clearAnimation()
+            next.visibility = View.INVISIBLE
 
         } else if (currentItemIndex + 1 < viewPager.adapter!!.count && currentItemIndex + 1 > mViewPagerCount - 2) {
-            next!!.visibility = View.VISIBLE
-            next!!.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_right))
-            previous!!.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_left))
+            next.visibility = View.VISIBLE
+            next.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_right))
+            previous.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_left))
         }
         if (currentItemIndex > 0 && currentItemIndex < 2) {
-            previous!!.visibility = View.VISIBLE
-            previous!!.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_left))
-            next!!.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_right))
+            previous.visibility = View.VISIBLE
+            previous.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_left))
+            next.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_right))
         } else if (currentItemIndex == 0) {
-            previous!!.clearAnimation()
-            previous!!.visibility = View.INVISIBLE
+            previous.clearAnimation()
+            previous.visibility = View.INVISIBLE
         }
     }
 
     private fun setSubtitle(year: String) {
         val subtitle = getString(R.string.sub_format, year, "-", "@", percentage, "%")
-        actionBar!!.subtitle = subtitle
+        actionBar.subtitle = subtitle
     }
 
     override fun onClick(view: View) {
@@ -179,4 +166,19 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
             return intent
         }
     }
+
+    inner class MyPagerAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
+        override fun getItem(position: Int): Fragment {
+            val money = mMoneyList!![position]
+            return InvestmentDetail.newInstance(money.year!!)
+        }
+
+        override fun getCount(): Int {
+            return mMoneyList!!.size
+        }
+        fun onPageSelected(position: Int) {
+            toggleArrows(position)
+        }
+    }
+
 }
