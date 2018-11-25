@@ -132,11 +132,11 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
                 if (mInterstitialAd.isLoaded()) mInterstitialAd.show();
 
                 String monthlyAdditions;
-                if (TextUtils.isEmpty(monthlyInvestmentEditTxt.getText().toString())) {
-                    monthlyAdditions = "0,000";
-                } else {
+                if (TextUtils.isEmpty(monthlyInvestmentEditTxt.getText().toString()))
+                    monthlyAdditions = "0";
+                else
                     monthlyAdditions = monthlyInvestmentEditTxt.getText().toString();
-                }
+
 
 
                 Singleton.getInstance().mMoneyList.clear();
