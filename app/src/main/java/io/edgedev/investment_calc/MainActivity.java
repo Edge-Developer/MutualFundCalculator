@@ -21,6 +21,7 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.MobileAds;
+import com.google.firebase.analytics.FirebaseAnalytics;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
@@ -47,6 +48,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
     private String intREST;
     private TinyDB lumpsum, monthlySum, interestPerYear, tenureInYears;
     private InterstitialAd mInterstitialAd;
+    private FirebaseAnalytics mFirebaseAnalytics;
 
     @Override
     protected void onPause() {
@@ -71,6 +73,7 @@ public class MainActivity extends AppCompatActivity implements RecyclerViewAdapt
         super.onCreate(savedInstanceState);
         binding = DataBindingUtil.setContentView(this, R.layout.activity_main);
         MobileAds.initialize(this, "ca-app-pub-9297690518647609~1456090179");
+        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
         mInterstitialAd = new InterstitialAd(this);
         mInterstitialAd.setAdUnitId(getString(R.string.interstitial_main_activity));
         mInterstitialAd.loadAd(new AdRequest.Builder().build());
