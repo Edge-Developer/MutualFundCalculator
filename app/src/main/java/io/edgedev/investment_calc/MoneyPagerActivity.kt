@@ -4,6 +4,8 @@ import android.content.Context
 import android.content.Intent
 import android.os.Bundle
 import android.support.v4.app.Fragment
+import android.support.v4.app.FragmentManager
+import android.support.v4.app.FragmentPagerAdapter
 import android.support.v4.app.FragmentStatePagerAdapter
 import android.support.v4.view.ViewPager
 import android.support.v7.app.ActionBar
@@ -45,7 +47,19 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
         super.onDestroy()
         mAdView!!.destroy()
     }
+    inner class MyPagerAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
+        override fun getItem(position: Int): Fragment {
+            val money = mMoneyList!![position]
+            return InvestmentDetail.newInstance(money.year!!)
+        }
 
+        override fun getCount(): Int {
+            return mMoneyList!!.size
+        }
+        fun onPageSelected(position: Int) {
+            toggleArrows(position)
+        }
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -70,18 +84,8 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
         actionBar!!.setDisplayHomeAsUpEnabled(true)
 
         viewPager = findViewById(R.id.money_viewpager)
-        val fragmentManager = supportFragmentManager
-
-        viewPager.adapter = object : FragmentStatePagerAdapter(fragmentManager) {
-            override fun getItem(position: Int): Fragment {
-                val money = mMoneyList!![position]
-                return InvestmentDetail.newInstance(money.year!!)
-            }
-
-            override fun getCount(): Int {
-                return mMoneyList!!.size
-            }
-        }
+        val fragmentAdapter =MyPagerAdapter(supportFragmentManager)
+        viewPager.adapter = fragmentAdapter
 
         for (i in mMoneyList!!.indices) {
             if (mMoneyList!![i].year == year) {
@@ -97,6 +101,7 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
             override fun onPageSelected(position: Int) {
                 val money = mMoneyList!![position]
                 setSubtitle(money.year!!)
+                fragmentAdapter.onPageSelected(position)
 
             }
 
@@ -110,6 +115,8 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
         previous!!.startAnimation(AnimationUtils.loadAnimation(this, R.anim.wobble_left))
         next!!.setOnClickListener(this)
         previous!!.setOnClickListener(this)
+
+        toggleArrows(viewPager.currentItem)
 
         mAdView = findViewById(R.id.adView)
         val adRequest = AdRequest.Builder().build()
