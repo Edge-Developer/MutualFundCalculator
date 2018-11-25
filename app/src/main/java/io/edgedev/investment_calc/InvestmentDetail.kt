@@ -33,8 +33,6 @@ class InvestmentDetail : Fragment() {
 
     companion object {
         private val ARG_YEAR_KEY = "the_year"
-
-
         fun newInstance(year: String): InvestmentDetail {
             val args = Bundle()
             args.putString(ARG_YEAR_KEY, year)
