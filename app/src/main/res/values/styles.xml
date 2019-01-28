@@ -36,4 +36,16 @@
         <item name="android:gravity">center</item>
         <item name="android:textColor">#000</item>
     </style>
+
+    <!--
+    Supposed workaround for AdMob SDK crash
+    IllegalStateException: Only fullscreen activities can request orientation
+     -->
+    <style name="TranslucentTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
 </resources>

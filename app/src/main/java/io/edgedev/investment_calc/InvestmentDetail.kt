@@ -1,14 +1,14 @@
 package io.edgedev.investment_calc
 
 import android.os.Bundle
-import android.support.v4.app.Fragment
-import android.support.v7.widget.LinearLayoutManager
-import android.support.v7.widget.RecyclerView
+import androidx.fragment.app.Fragment
+import androidx.recyclerview.widget.LinearLayoutManager
+import androidx.recyclerview.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 
-class InvestmentDetail : Fragment() {
+class InvestmentDetail : androidx.fragment.app.Fragment() {
     private lateinit var mMonthAdapter: MonthAdapter
     private var year: String? = null
 
@@ -21,8 +21,8 @@ class InvestmentDetail : Fragment() {
 
         val view = inflater.inflate(R.layout.activity_detail, container, false)
 
-        val recyclerView = view.findViewById<View>(R.id.monthRecycler) as RecyclerView
-        recyclerView.layoutManager = LinearLayoutManager(activity)
+        val recyclerView = view.findViewById<View>(R.id.monthRecycler) as androidx.recyclerview.widget.RecyclerView
+        recyclerView.layoutManager = androidx.recyclerview.widget.LinearLayoutManager(activity)
         mMonthAdapter = MonthAdapter()
         recyclerView.adapter = mMonthAdapter
 

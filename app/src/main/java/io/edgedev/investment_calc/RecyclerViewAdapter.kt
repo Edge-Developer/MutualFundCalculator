@@ -1,10 +1,10 @@
 package io.edgedev.investment_calc
 
 import android.content.Context
-import android.databinding.DataBindingUtil
+import androidx.databinding.DataBindingUtil
 import android.os.Build
-import android.support.v4.app.ShareCompat
-import android.support.v7.widget.RecyclerView
+import androidx.core.app.ShareCompat
+import androidx.recyclerview.widget.RecyclerView
 import android.text.Html
 import android.util.Log
 import android.view.LayoutInflater
@@ -19,7 +19,7 @@ import io.edgedev.investment_calc.databinding.SingleYearBinding
  * Created by OPEYEMI OLORUNLEKE on 6/2/2017.
  */
 
-class RecyclerViewAdapter(private val mCallback: Callback, var mList: MutableList<Money> = ArrayList()) : RecyclerView.Adapter<RecyclerViewAdapter.MoneyHolder>() {
+class RecyclerViewAdapter(private val mCallback: Callback, var mList: MutableList<Money> = ArrayList()) : androidx.recyclerview.widget.RecyclerView.Adapter<RecyclerViewAdapter.MoneyHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): MoneyHolder {
         val inflater = LayoutInflater.from(parent.context)
@@ -46,7 +46,7 @@ class RecyclerViewAdapter(private val mCallback: Callback, var mList: MutableLis
         fun share(message: String)
     }
 
-    inner class MoneyHolder(private val vBinding: SingleYearBinding) : RecyclerView.ViewHolder(vBinding.root) {
+    inner class MoneyHolder(private val vBinding: SingleYearBinding) : androidx.recyclerview.widget.RecyclerView.ViewHolder(vBinding.root) {
         private var vMoney: Money? = null
 
         init {

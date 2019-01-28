@@ -3,17 +3,13 @@ package io.edgedev.investment_calc
 import android.content.Context
 import android.content.Intent
 import android.os.Bundle
-import android.support.v4.app.Fragment
-import android.support.v4.app.FragmentManager
-import android.support.v4.app.FragmentPagerAdapter
-import android.support.v4.app.FragmentStatePagerAdapter
-import android.support.v4.view.ViewPager
-import android.support.v7.app.ActionBar
-import android.support.v7.app.AppCompatActivity
 import android.view.View
 import android.view.View.OnClickListener
 import android.view.animation.AnimationUtils
 import android.widget.ImageView
+import androidx.appcompat.app.ActionBar
+import androidx.appcompat.app.AppCompatActivity
+import androidx.viewpager.widget.ViewPager
 
 import com.google.android.gms.ads.AdListener
 import com.google.android.gms.ads.AdRequest
@@ -167,8 +163,8 @@ class MoneyPagerActivity : AppCompatActivity(), OnClickListener {
         }
     }
 
-    inner class MyPagerAdapter(fm: FragmentManager) : FragmentPagerAdapter(fm) {
-        override fun getItem(position: Int): Fragment {
+    inner class MyPagerAdapter(fm: androidx.fragment.app.FragmentManager) : androidx.fragment.app.FragmentPagerAdapter(fm) {
+        override fun getItem(position: Int): androidx.fragment.app.Fragment {
             val money = mMoneyList!![position]
             return InvestmentDetail.newInstance(money.year!!)
         }

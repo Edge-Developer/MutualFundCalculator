@@ -1,8 +1,8 @@
 package io.edgedev.investment_calc
 
-import android.databinding.DataBindingUtil
+import androidx.databinding.DataBindingUtil
 import android.graphics.Color
-import android.support.v7.widget.RecyclerView
+import androidx.recyclerview.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import android.widget.LinearLayout
@@ -15,7 +15,7 @@ import io.edgedev.investment_calc.databinding.SingleMonthBinding
  * Created by OPEYEMI OLORUNLEKE on 6/2/2017.
  */
 
-internal class MonthAdapter : RecyclerView.Adapter<MonthAdapter.MonthHolder>() {
+internal class MonthAdapter : androidx.recyclerview.widget.RecyclerView.Adapter<MonthAdapter.MonthHolder>() {
 
     var mMonths: List<Month>
 
@@ -49,7 +49,7 @@ internal class MonthAdapter : RecyclerView.Adapter<MonthAdapter.MonthHolder>() {
         notifyDataSetChanged()
     }
 
-    inner class MonthHolder(internal var vBinding: SingleMonthBinding) : RecyclerView.ViewHolder(vBinding.root) {
+    inner class MonthHolder(internal var vBinding: SingleMonthBinding) : androidx.recyclerview.widget.RecyclerView.ViewHolder(vBinding.root) {
         var vLinearLayout: LinearLayout
 
         init {
