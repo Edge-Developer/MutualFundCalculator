@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Máy tính quỹ tương hỗ"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s mỗi năm"</string>
+	<string name="initial_investment">"Đầu tư ban đầu (gộp một lần)"</string>
+	<string name="monthly_investment">"Đầu tư hàng tháng"</string>
+	<string name="interest_per_annum">"Lãi suất (mỗi năm%)"</string>
+	<string name="calculate_roi">"Tính toán"</string>
+	<string name="tenure_in_years">"Nhiệm kỳ trong năm"</string>
+	<string name="details">"Chi tiết"</string>
+	<string name="month">"tháng"</string>
+	<string name="start">"Khởi đầu"</string>
+	<string name="investment">"Đầu tư"</string>
+	<string name="interest">"Quan tâm"</string>
+	<string name="end">"Kết thúc"</string>
+	<string name="investment_summary">"Sự thật thú vị: Bạn có biết, nếu ban đầu bạn đầu tư %1$s vào các quỹ tương hỗ với lãi suất %2$s%% và bạn tiếp tục thêm %3$s mỗi tháng, vào cuối năm %4$d, bạn sẽ có %5$s, %6$s%% lớn hơn khoản đầu tư ban đầu của bạn. Mục tiêu tiết kiệm lãi gộp"</string>
+	<string name="share">"Chia sẻ"</string>
+	<string name="little_extra">"Đây là một cách tốt hơn để tiết kiệm tiền. Tính lợi tức đầu tư quỹ tương hỗ của bạn và hơn thế nữa, với Ứng dụng Máy tính quỹ tương hỗ"</string>
+
+
+</resources>

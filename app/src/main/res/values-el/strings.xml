@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Υπολογιστής Αμοιβαίου Κεφαλαίου"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s ανά έτος"</string>
+	<string name="initial_investment">"Αρχικές επενδύσεις (κατ 'αποκοπή ποσό)"</string>
+	<string name="monthly_investment">"Μηνιαία επένδυση"</string>
+	<string name="interest_per_annum">"Τόκοι (ανά έτος%)"</string>
+	<string name="calculate_roi">"Υπολογίζω"</string>
+	<string name="tenure_in_years">"Χρόνος θητείας σε έτη"</string>
+	<string name="details">"Λεπτομέριες"</string>
+	<string name="month">"Μήνας"</string>
+	<string name="start">"Αρχή"</string>
+	<string name="investment">"Επένδυση"</string>
+	<string name="interest">"Ενδιαφέρον"</string>
+	<string name="end">"Τέλος"</string>
+	<string name="investment_summary">"Διασκέδαση: Ξέρετε ότι εάν αρχικά επενδύσατε το %1$s σε Αμοιβαία Κεφάλαια στο επιτόκιο %2$s%% και συνεχίζετε να προσθέτετε %3$s κάθε μήνα, στο τέλος των Χρόνων ΗΗΕ θα είχατε %5$s %6$s%% μεγαλύτερο από την αρχική σας επένδυση. Σύνθετο ενδιαφέρον τόκων εξοικονόμησης"</string>
+	<string name="share">"Μερίδιο"</string>
+	<string name="little_extra">"Αυτός είναι ένας καλύτερος τρόπος για να εξοικονομήσετε χρήματα. Υπολογίστε την Επιστροφή Επενδύσεων Αμοιβαίου Κεφαλαίου και πολλά άλλα, με την εφαρμογή Υπολογιστή Αμοιβαίου Κεφαλαίου"</string>
+
+
+</resources>

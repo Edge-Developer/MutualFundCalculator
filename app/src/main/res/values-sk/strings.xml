@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Kalkulačka podielových fondov"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s za rok"</string>
+	<string name="initial_investment">"Počiatočná investícia (paušálna suma)"</string>
+	<string name="monthly_investment">"Mesačná investícia"</string>
+	<string name="interest_per_annum">"Záujem (Per Annum%)"</string>
+	<string name="calculate_roi">"vypočítať"</string>
+	<string name="tenure_in_years">"Držba v rokoch"</string>
+	<string name="details">"podrobnosti"</string>
+	<string name="month">"mesiac"</string>
+	<string name="start">"štart"</string>
+	<string name="investment">"investície"</string>
+	<string name="interest">"záujem"</string>
+	<string name="end">"Koniec"</string>
+	<string name="investment_summary">"Fun Fact: Viete, Ak ste pôvodne investovali %1$s do podielových fondov pri úrokovej sadzbe %2$s%% a každý mesiac pridávate %3$s, na konci %4$d rokov by ste mali %5$s, ktorý je väčší ako vaša počiatočná investícia. Úrokový cieľ zložených úrokov"</string>
+	<string name="share">"zdieľam"</string>
+	<string name="little_extra">"To je lepší spôsob, ako ušetriť peniaze. Vypočítajte si návratnosť podielových fondov a viac, s kalkulačkou podielového fondu App"</string>
+
+
+</resources>

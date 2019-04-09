@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"គណនាប្រាក់សន្សំ"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s ក្នុងមួយឆ្នាំ"</string>
+	<string name="initial_investment">"ការវិនិយោគដំបូង (ផលបូក)"</string>
+	<string name="monthly_investment">"ការវិនិយោគប្រចាំខែ"</string>
+	<string name="interest_per_annum">"ការប្រាក់ (ក្នុងមួយឆ្នាំ)"</string>
+	<string name="calculate_roi">"គណនា"</string>
+	<string name="tenure_in_years">"ការកាន់កាប់ក្នុងឆ្នាំ"</string>
+	<string name="details">"ព័ត៌មានលម្អិត"</string>
+	<string name="month">"ខែ"</string>
+	<string name="start">"ចាប់ផ្តើម"</string>
+	<string name="investment">"ការវិនិយោគ"</string>
+	<string name="interest">"ការប្រាក់"</string>
+	<string name="end">"បញ្ចប់"</string>
+	<string name="investment_summary">"ភាពសប្បាយរីករាយ: តើអ្នកដឹងទេថាប្រសិនបើអ្នកបានវិនិយោគជាលើកដំបូង %1$s ទៅជាមូលនិធិទៅវិញទៅមកនៅឯអត្រាការប្រាក់របស់ %2$s%% ហើយអ្នកបន្តបន្ថែម %3$s រៀងរាល់ខែនៅចុងបញ្ចប់នៃ %4$d ឆ្នាំអ្នកនឹងមាន %5$s ដែលជា %6$s%% ធំជាងការវិនិយោគដំបូងរបស់អ្នក។ គោលដៅសន្សំប្រាក់បរិវេណ"</string>
+	<string name="share">"ចែករំលែក"</string>
+	<string name="little_extra">"នេះគឺជាមធ្យោបាយល្អជាងក្នុងការសន្សំប្រាក់។ គណនាត្រឡប់ទៅរកមូលនិធិសោធននិវត្តន៍និងច្រើនទៀតដោយកម្មវិធីគណនាប្រាក់សន្សំ"</string>
+
+
+</resources>

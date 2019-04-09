@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Fondi i Fondeve të Ndërsjellta"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s në vit"</string>
+	<string name="initial_investment">"Investimi Fillestar (Shumat e Ngurta)"</string>
+	<string name="monthly_investment">"Investime mujore"</string>
+	<string name="interest_per_annum">"Interesi (Per Annum%)"</string>
+	<string name="calculate_roi">"llogarit"</string>
+	<string name="tenure_in_years">"Qëndrimi në vite"</string>
+	<string name="details">"detalet"</string>
+	<string name="month">"Muaj"</string>
+	<string name="start">"fillim"</string>
+	<string name="investment">"investim"</string>
+	<string name="interest">"interes"</string>
+	<string name="end">"fund"</string>
+	<string name="investment_summary">"Fakt Fun: A e dini, nëse fillimisht keni investuar %1$s në Fondet e Ndërsjella në normën e interesit të KKK dhe ju vazhdoni të shtoni %3$s çdo muaj, në fund të Vitet %4$d ju do të kishit %5$s që është %6$s%% më e madhe se investimi juaj fillestar. Synimi i Përbashkët i Kursimeve të Interesit"</string>
+	<string name="share">"pjesë"</string>
+	<string name="little_extra">"Kjo është një mënyrë më e mirë për të kursyer para. Llogaritni Fondin tuaj të Kthyer për Investime dhe më shumë, me Fondin e Ndërsjelltë Calculator Calculator"</string>
+
+
+</resources>

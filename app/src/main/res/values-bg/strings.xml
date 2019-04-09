@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Калкулатор на взаимния фонд"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s годишно"</string>
+	<string name="initial_investment">"Първоначална инвестиция (еднократна сума)"</string>
+	<string name="monthly_investment">"Месечни инвестиции"</string>
+	<string name="interest_per_annum">"Лихва (% на%)"</string>
+	<string name="calculate_roi">"Изчисли"</string>
+	<string name="tenure_in_years">"Година на съществуване"</string>
+	<string name="details">"детайли"</string>
+	<string name="month">"месец"</string>
+	<string name="start">"начало"</string>
+	<string name="investment">"инвестиция"</string>
+	<string name="interest">"интерес"</string>
+	<string name="end">"Край"</string>
+	<string name="investment_summary">"Забавен факт: Знаете ли, ако първоначално инвестирахте %1$s в взаимни фондове в %2$s%% лихвен процент и продължавате да добавяте %3$s всеки месец, в края на %4$d години бихте имали %5$s, което е %6$s%% по-голямо от първоначалната ви инвестиция. Цел за спестяване на сложна лихва"</string>
+	<string name="share">"Дял"</string>
+	<string name="little_extra">"Това е по-добър начин да се спестят пари. Изчислете възвръщаемостта на инвестиционния фонд и повече, с приложението на взаимния фонд калкулатор"</string>
+
+
+</resources>

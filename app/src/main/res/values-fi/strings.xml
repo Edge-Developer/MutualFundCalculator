@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Keskinäisen rahaston laskin"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s vuodessa"</string>
+	<string name="initial_investment">"Alkuinvestointi (kertasumma)"</string>
+	<string name="monthly_investment">"Kuukausittainen investointi"</string>
+	<string name="interest_per_annum">"Korko (per vuosi%)"</string>
+	<string name="calculate_roi">"Laskea"</string>
+	<string name="tenure_in_years">"Vuosisatojen kesto"</string>
+	<string name="details">"Yksityiskohdat"</string>
+	<string name="month">"Kuukausi"</string>
+	<string name="start">"alkaa"</string>
+	<string name="investment">"investointi"</string>
+	<string name="interest">"Kiinnostuksen kohde"</string>
+	<string name="end">"pää"</string>
+	<string name="investment_summary">"Hauskat tosiasiat: Tiedättekö, jos sijoitat %1$s: n alun perin sijoitusrahastoihin %2$s%%: n korolla ja pidät %3$s: n lisäämisen joka kuukausi, sähkötekniikan vuosien lopussa sinulla olisi ollut %5$s, joka on %6$s%% suurempi kuin alkuperäinen investointi. Yhdistetty korkojen säästötavoite"</string>
+	<string name="share">"Jaa"</string>
+	<string name="little_extra">"Tämä on parempi tapa säästää rahaa. Lasketaan sijoitusrahastosi sijoitetun pääoman tuotto ja enemmän, sijoitusrahastolaskinohjelman avulla"</string>
+
+
+</resources>

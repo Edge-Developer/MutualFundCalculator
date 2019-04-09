@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Mutual Fund Calculator"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s per år"</string>
+	<string name="initial_investment">"Innledende investeringer (Lump Sum)"</string>
+	<string name="monthly_investment">"Månedlig investering"</string>
+	<string name="interest_per_annum">"Interesse (Per Annonse%)"</string>
+	<string name="calculate_roi">"Regne ut"</string>
+	<string name="tenure_in_years">"Tenure i år"</string>
+	<string name="details">"detaljer"</string>
+	<string name="month">"Måned"</string>
+	<string name="start">"Start"</string>
+	<string name="investment">"Investering"</string>
+	<string name="interest">"Renter"</string>
+	<string name="end">"Slutt"</string>
+	<string name="investment_summary">"Morsomt faktum: Vet du, hvis du i utgangspunktet investerte %1$s i gjensidig fond ved %2$s%%-renten, og du fortsetter å legge til %3$s hver måned, i slutten av %4$d Years ville du ha hatt %5$s som er %6$s%% større enn din opprinnelige investering. Sammensatt rentesparing mål"</string>
+	<string name="share">"Dele"</string>
+	<string name="little_extra">"Dette er en bedre måte å spare penger på. Beregn din gjensidig avkastning på investering og mer, med Mutual Fund Calculator Calculator"</string>
+
+
+</resources>

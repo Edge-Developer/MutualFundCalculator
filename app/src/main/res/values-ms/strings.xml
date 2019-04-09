@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Kalkulator Dana Bersama"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s Per Tahun"</string>
+	<string name="initial_investment">"Pelaburan Awal (Jumlah Lump)"</string>
+	<string name="monthly_investment">"Pelaburan Bulanan"</string>
+	<string name="interest_per_annum">"Faedah (Per Annum%)"</string>
+	<string name="calculate_roi">"Kira"</string>
+	<string name="tenure_in_years">"Tempoh Dalam Tahun"</string>
+	<string name="details">"Butiran"</string>
+	<string name="month">"Bulan"</string>
+	<string name="start">"Mulakan"</string>
+	<string name="investment">"Pelaburan"</string>
+	<string name="interest">"Faedah"</string>
+	<string name="end">"Akhirnya"</string>
+	<string name="investment_summary">"Fakta Hebat: Tahukah anda, Jika anda mula-mula Melabur %1$s ke Dana Bersama pada kadar faedah %2$s%% dan anda terus menambah %3$s setiap bulan, pada akhir Tahun %4$d anda akan mempunyai %5$s yang %6$s%% lebih besar daripada pelaburan awal anda. Matlamat Simpanan Faedah Kompaun"</string>
+	<string name="share">"Kongsi"</string>
+	<string name="little_extra">"Ini adalah cara yang lebih baik untuk menjimatkan wang. Hitunglah Pulangan Reksa Dana anda tentang Pelaburan dan banyak lagi, dengan App Kalkulator Dana Bersama"</string>
+
+
+</resources>

@@ -5,8 +5,8 @@
 
     <string name="banner_ad_unit_main_activity" translatable="false">ca-app-pub-9297690518647609/5607088170</string>
     <string name="banner_ad_unit_details" translatable="false">ca-app-pub-9297690518647609/7083821376</string>
-    <string name="interstitial_main_activity">ca-app-pub-9297690518647609/8779591733</string>
-    <string name="interstitial_detail_activity">ca-app-pub-9297690518647609/9366479747</string>
+    <string name="interstitial_main_activity" translatable="false">ca-app-pub-9297690518647609/8779591733</string>
+    <string name="interstitial_detail_activity" translatable="false">ca-app-pub-9297690518647609/9366479747</string>
 
     <!--<string name="banner_ad_unit_main_activity">ca-app-pub-3940256099942544/6300978111</string>
     <string name="banner_ad_unit_details">ca-app-pub-3940256099942544/6300978111</string>
@@ -29,5 +29,5 @@
     <string name="share">Share</string>
     <string name="little_extra">This is a better way to save money. Calculate your Mutual Fund R.O.I &amp; more, with the Mutual Fund Calculator App</string>
 
-
+    Tue Apr 09 2019
 </resources>

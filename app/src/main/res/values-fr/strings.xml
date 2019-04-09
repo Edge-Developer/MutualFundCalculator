@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Calculateur de fonds communs de placement"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s par an"</string>
+	<string name="initial_investment">"Investissement initial (somme forfaitaire)"</string>
+	<string name="monthly_investment">"Investissement mensuel"</string>
+	<string name="interest_per_annum">"Intérêts (% par an)"</string>
+	<string name="calculate_roi">"Calculer"</string>
+	<string name="tenure_in_years">"Durée du mandat en années"</string>
+	<string name="details">"Détails"</string>
+	<string name="month">"Mois"</string>
+	<string name="start">"Début"</string>
+	<string name="investment">"Investissement"</string>
+	<string name="interest">"Intérêt"</string>
+	<string name="end">"Fin"</string>
+	<string name="investment_summary">"Anecdote: Savez-vous que, si vous avez initialement investi %1$s dans des fonds communs de placement au taux %2$s%%, et que vous continuez d’ajouter %3$s tous les mois, à la fin des années %4$d, vous auriez un %5$s supérieur à votre investissement initial. Objectif d'épargne à intérêt composé"</string>
+	<string name="share">"Partager"</string>
+	<string name="little_extra">"C'est un meilleur moyen d'économiser de l'argent. Calculez votre retour sur investissement de fonds communs de placement et plus encore, avec l'application Calculatrice de fonds communs de placement"</string>
+
+
+</resources>

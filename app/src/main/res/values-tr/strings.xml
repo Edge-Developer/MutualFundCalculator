@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Yatırım Fonu Hesaplayıcısı"</string>
+	<string name="sub_format">"Yıllık %1$s %2$s %3$s%4$s%5$s"</string>
+	<string name="initial_investment">"İlk Yatırım (Lump Sum)"</string>
+	<string name="monthly_investment">"Aylık Yatırım"</string>
+	<string name="interest_per_annum">"Faiz (Yıllık%)"</string>
+	<string name="calculate_roi">"Hesaplamak"</string>
+	<string name="tenure_in_years">"Yıl İçinde Görev Süresi"</string>
+	<string name="details">"ayrıntılar"</string>
+	<string name="month">"Ay"</string>
+	<string name="start">"başla"</string>
+	<string name="investment">"Yatırım"</string>
+	<string name="interest">"Faiz"</string>
+	<string name="end">"Son"</string>
+	<string name="investment_summary">"Eğlenceli Gerçek: Bilirsiniz, İlk başta %1$s'yi %2$s%% faiz oranında Yatırım Fonlarına Yatırım Yaptıysanız ve her ay %3$s eklemeye devam ederseniz, %4$d Yıllarının sonunda ilk yatırımınızdan daha büyük %6$s%% olan %5$s'ye sahip olursunuz. Bileşik Faiz Tasarruf Amacı"</string>
+	<string name="share">"Pay"</string>
+	<string name="little_extra">"Bu para kazanmak için daha iyi bir yoldur. Yatırım Fonu Hesaplama Uygulaması ile Yatırım Fonu Yatırım Getirinizi ve daha fazlasını hesaplayın"</string>
+
+
+</resources>

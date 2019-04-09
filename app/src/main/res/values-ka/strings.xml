@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"ურთიერთდახმარების ფონდის კალკულატორი"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s წელიწადში"</string>
+	<string name="initial_investment">"პირველადი ინვესტიცია (მთლიანი თანხა)"</string>
+	<string name="monthly_investment">"ყოველთვიური ინვესტიცია"</string>
+	<string name="interest_per_annum">"პროცენტი (წლიური%)"</string>
+	<string name="calculate_roi">"გამოთვალეთ"</string>
+	<string name="tenure_in_years">"წლის განმავლობაში"</string>
+	<string name="details">"დეტალები"</string>
+	<string name="month">"თვე"</string>
+	<string name="start">"დაწყება"</string>
+	<string name="investment">"საინვესტიციო"</string>
+	<string name="interest">"ინტერესი"</string>
+	<string name="end">"Დასასრული"</string>
+	<string name="investment_summary">"გართობა ფაქტი: იცით თუ არა, რომ თავდაპირველად ჩართული %1$s- ის ურთიერთდახმარების ფონდში ჩართული საპროცენტო განაკვეთები და თქვენ ყოველწლიურად დასძინა %3$s ყოველწლიურად %4$d- ს წლის ბოლოს, გქონდათ %5$s, რომელიც გიგანტს უფრო მეტია, ვიდრე თქვენი საწყისი ინვესტიცია. საინვესტიციო შემნახველი მიზანი"</string>
+	<string name="share">"გაზიარება"</string>
+	<string name="little_extra">"ეს არის უკეთესი გზა ფულის დაზოგვა. გამოთვალეთ თქვენი ურთიერთდახმარების ფონდი საინვესტიციო და მეტი, ერთად ურთიერთდახმარების ფონდის კალკულატორი აპლიკაცია"</string>
+
+
+</resources>

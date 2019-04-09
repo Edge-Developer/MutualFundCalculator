@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Gagnkvæma sjóðsreikningur"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s á ári"</string>
+	<string name="initial_investment">"Upphafleg fjárfesting (Lump Sum)"</string>
+	<string name="monthly_investment">"Mánaðarleg fjárfesting"</string>
+	<string name="interest_per_annum">"Vextir (Árlega%)"</string>
+	<string name="calculate_roi">"Reikna"</string>
+	<string name="tenure_in_years">"Tenure á árum"</string>
+	<string name="details">"Upplýsingar"</string>
+	<string name="month">"Mánuður"</string>
+	<string name="start">"Byrja"</string>
+	<string name="investment">"Fjárfesting"</string>
+	<string name="interest">"Vextir"</string>
+	<string name="end">"Enda"</string>
+	<string name="investment_summary">"Gaman Staðreynd: Veistu, ef þú fjárfestir upphaflega %1$s í gjaldeyrissjóði við %2$s%% vexti og þú heldur áfram að bæta %3$s í hverjum mánuði, í lok %4$d ára sem þú hefðir átt %5$s sem er %6$s%% meiri en upphafleg fjárfesting þín. Samstæðuvextir Sparisjóður"</string>
+	<string name="share">"Deila"</string>
+	<string name="little_extra">"Þetta er betri leið til að spara peninga. Reiknaðu hinn gagnkvæma sjóðsávöxtun á fjárfestingu og fleira, með gagnasjóði Reiknivél App"</string>
+
+
+</resources>

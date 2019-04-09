@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"ミューチュアルファンド電卓"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s /年"</string>
+	<string name="initial_investment">"初期投資（一括払い）"</string>
+	<string name="monthly_investment">"毎月の投資"</string>
+	<string name="interest_per_annum">"利子（年率％）"</string>
+	<string name="calculate_roi">"計算する"</string>
+	<string name="tenure_in_years">"任期中の任期"</string>
+	<string name="details">"詳細"</string>
+	<string name="month">"月"</string>
+	<string name="start">"開始"</string>
+	<string name="investment">"投資"</string>
+	<string name="interest">"興味"</string>
+	<string name="end">"終わり"</string>
+	<string name="investment_summary">"楽しい事実：あなたが最初に%2$s%%の金利でミューチュアルファンドに%1$sを投資し、あなたが毎月%3$sを追加し続けるならば、%4$d年の終わりにあなたはあなたの初期投資よりGGG大きいFFFを持っていたでしょう。複利貯蓄目標"</string>
+	<string name="share">"シェア"</string>
+	<string name="little_extra">"これはお金を節約するためのより良い方法です。ミューチュアルファンド電卓アプリで、投資などのあなたのミューチュアルファンド収益を計算"</string>
+
+
+</resources>

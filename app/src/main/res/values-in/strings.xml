@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Kalkulator Reksa Dana"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s Per Tahun"</string>
+	<string name="initial_investment">"Investasi Awal (Jumlah Lump)"</string>
+	<string name="monthly_investment">"Investasi Bulanan"</string>
+	<string name="interest_per_annum">"Bunga (Per Tahun%)"</string>
+	<string name="calculate_roi">"Menghitung"</string>
+	<string name="tenure_in_years">"Kepemilikan Bertahun-Tahun"</string>
+	<string name="details">"Detail"</string>
+	<string name="month">"Bulan"</string>
+	<string name="start">"Mulai"</string>
+	<string name="investment">"Investasi"</string>
+	<string name="interest">"Bunga"</string>
+	<string name="end">"Akhir"</string>
+	<string name="investment_summary">"Fakta Menarik: Tahukah Anda, Jika Anda Awalnya Menginvestasikan %1$s ke dalam Reksa Dana dengan tingkat bunga %2$s%% dan Anda terus menambahkan %3$s setiap bulan, pada akhir Tahun %4$d Anda akan memiliki %5$s yang %6$s%% lebih besar dari investasi awal Anda. Tujuan Penghematan Bunga Majemuk"</string>
+	<string name="share">"Bagikan"</string>
+	<string name="little_extra">"Ini adalah cara yang lebih baik untuk menghemat uang. Hitung Pengembalian Reksa Dana Anda atas Investasi dan lainnya, dengan Aplikasi Kalkulator Reksa Dana"</string>
+
+
+</resources>

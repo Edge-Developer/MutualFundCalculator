@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Өзара қордың калькуляторы"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s жылына"</string>
+	<string name="initial_investment">"Бастапқы инвестиция (біріктірілген сома)"</string>
+	<string name="monthly_investment">"Ай сайынғы инвестиция"</string>
+	<string name="interest_per_annum">"Пайыздар (жылына%)"</string>
+	<string name="calculate_roi">"Есептеу"</string>
+	<string name="tenure_in_years">"Жыл бойы өмір сүру"</string>
+	<string name="details">"Егжей"</string>
+	<string name="month">"Ай"</string>
+	<string name="start">"Бастау"</string>
+	<string name="investment">"Инвестициялар"</string>
+	<string name="interest">"Пайыздар"</string>
+	<string name="end">"Соңы"</string>
+	<string name="investment_summary">"Көңілді факт: Сіз білесіз бе, егер бастапқыда %2$s%% пайыздық мөлшерлемесі бойынша ВВВ-ты өзара қорларға инвестицияласаңыз және сіз %3$s-ні ай сайын қосуды жалғастырсаңыз, %4$d-нің соңында Сіз %5$s-ті өткізген боларсыз, ол %6$s%%-нің бастапқы инвестицияларыңыздан жоғары. Бірлескен пайыздық жинақ мақсат"</string>
+	<string name="share">"Бөлісу"</string>
+	<string name="little_extra">"Бұл ақша үнемдеудің жақсы тәсілі. Өзара қордың Инвестициялық кірістілігін және одан да көп соманы есептеңіз"</string>
+
+
+</resources>

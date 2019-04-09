@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Калькулятор взаимного фонда"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s в год"</string>
+	<string name="initial_investment">"Начальные инвестиции (единовременно выплачиваемая сумма)"</string>
+	<string name="monthly_investment">"Ежемесячные инвестиции"</string>
+	<string name="interest_per_annum">"Проценты (% годовых)"</string>
+	<string name="calculate_roi">"подсчитывать"</string>
+	<string name="tenure_in_years">"Срок пребывания в годах"</string>
+	<string name="details">"подробности"</string>
+	<string name="month">"Месяц"</string>
+	<string name="start">"Начните"</string>
+	<string name="investment">"инвестиции"</string>
+	<string name="interest">"Интерес"</string>
+	<string name="end">"Конец"</string>
+	<string name="investment_summary">"Интересный факт: Знаете ли вы, что если вы изначально инвестировали %1$s в паевые инвестиционные фонды с процентной ставкой %2$s%% и продолжали добавлять %3$s каждый месяц, в конце %4$d-лет у вас был бы %5$s, который на %6$s%% больше, чем ваши первоначальные инвестиции. Сложная процентная цель сбережений"</string>
+	<string name="share">"Поделиться"</string>
+	<string name="little_extra">"Это лучший способ сэкономить деньги. Рассчитайте свою взаимную прибыль на инвестиции и многое другое, с помощью приложения Калькулятор взаимного фонда"</string>
+
+
+</resources>

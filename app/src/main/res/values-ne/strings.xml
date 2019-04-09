@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"म्युचुअल फंड कैलक्यूलेटर"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s प्रति वर्ष"</string>
+	<string name="initial_investment">"प्रारम्भिक लगानी (लम्प सुम)"</string>
+	<string name="monthly_investment">"मासिक लगानी"</string>
+	<string name="interest_per_annum">"ब्याज (प्रति वार्षिक%)"</string>
+	<string name="calculate_roi">"गणना गर्नुहोस्"</string>
+	<string name="tenure_in_years">"दश वर्ष भित्र"</string>
+	<string name="details">"विवरणहरू"</string>
+	<string name="month">"महिना"</string>
+	<string name="start">"सुरू गर्नुहोस्"</string>
+	<string name="investment">"लगानी"</string>
+	<string name="interest">"चासो"</string>
+	<string name="end">"अन्त"</string>
+	<string name="investment_summary">"फ्याक्ट फिक्स: तपाईलाई थाहा छ, यदि तपाइँले सीसीसी ब्याजमा सीसीबी ब्याज दरमा शुरुवात लगानी गर्नुभयो र तपाइँ ईईई वर्षको अन्तमा हरेक महिना %3$s थप्दै हुनुहुन्छ भने तपाईले एफएफ जो तपाईंको शुरुआती लगानी भन्दा ठूलो छ। यौगिक ब्याज बचत लक्ष्य"</string>
+	<string name="share">"साझेदारी गर्नुहोस्"</string>
+	<string name="little_extra">"यो पैसा बचत गर्न एक राम्रो तरिका हो। म्युचुअल फंड कैलक्यूलेटर एप संग, निवेश मा र अधिक, तपाईंको म्युचुअल फंड रिटर्न गणना गर्नुहोस्"</string>
+
+
+</resources>

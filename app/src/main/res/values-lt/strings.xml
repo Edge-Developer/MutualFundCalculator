@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Abipusio fondo skaičiuoklė"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s per metus"</string>
+	<string name="initial_investment">"Pradinė investicija (vienkartinė suma)"</string>
+	<string name="monthly_investment">"Mėnesio investicijos"</string>
+	<string name="interest_per_annum">"Palūkanos (per metus)"</string>
+	<string name="calculate_roi">"Apskaičiuoti"</string>
+	<string name="tenure_in_years">"Nuosavybės metai"</string>
+	<string name="details">"Išsami informacija"</string>
+	<string name="month">"Mėnuo"</string>
+	<string name="start">"Pradėti"</string>
+	<string name="investment">"Investicijos"</string>
+	<string name="interest">"Palūkanos"</string>
+	<string name="end">"Pabaiga"</string>
+	<string name="investment_summary">"Pramogos: Ar žinote, jei iš pradžių investavote %1$s į investicinius fondus pagal %2$s%% palūkanų normą ir jūs kiekvieną mėnesį pridedate %3$s, %4$d metų pabaigoje turėtumėte turėti %5$s, kuris yra %6$s%% didesnis nei pradinė investicija. Sudėtinių palūkanų taupymo tikslas"</string>
+	<string name="share">"Dalintis"</string>
+	<string name="little_extra">"Tai geresnis būdas taupyti pinigus. Apskaičiuokite savitarpio fondo investicijų grąžą ir dar daugiau, naudodamiesi programa „Investicinių fondų skaičiuoklė“"</string>
+
+
+</resources>

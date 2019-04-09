@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Mutual Fund Calculator"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s pro Joer"</string>
+	<string name="initial_investment">"Initial Investment (Lump Summa)"</string>
+	<string name="monthly_investment">"Ëmgéigend Maassgebiss"</string>
+	<string name="interest_per_annum">"Interesse (Per Annum%)"</string>
+	<string name="calculate_roi">"Ze berechnen"</string>
+	<string name="tenure_in_years">"Amusement Am Joer"</string>
+	<string name="details">"Detailer"</string>
+	<string name="month">"Mount"</string>
+	<string name="start">"Start"</string>
+	<string name="investment">"Investitioun"</string>
+	<string name="interest">"Interess"</string>
+	<string name="end">"Enn"</string>
+	<string name="investment_summary">"Fun Fact: Kennt Dir, Wann Dir éischt Kéier Investisseuren a %1$s an de Mutual Funds bei %2$s%% Zënsen investéiert hutt an Dir all Mount kënnt Dir %3$s addéieren, am Ende vun den %4$d Joer hätt Dir %5$s hätt deen %6$s%% méi grouss ass wéi Är initial Investitioun. Compound Interest Savings Goal"</string>
+	<string name="share">"Share"</string>
+	<string name="little_extra">"Dëst ass e bessere Wee fir Suen ze spueren. Kuckt Äere Mutual Fund zréck op Investitioun a méi, mat der Fonds Accès Calculator App"</string>
+
+
+</resources>

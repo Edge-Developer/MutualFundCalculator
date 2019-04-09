@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"מחשבון קרנות נאמנות"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s לשנה"</string>
+	<string name="initial_investment">"השקעה ראשונית (סכום גוש)"</string>
+	<string name="monthly_investment">"השקעה חודשית"</string>
+	<string name="interest_per_annum">"ריבית (לכל שנת%)"</string>
+	<string name="calculate_roi">"לחשב"</string>
+	<string name="tenure_in_years">"קביעות בשנים"</string>
+	<string name="details">"פרטים"</string>
+	<string name="month">"חודש"</string>
+	<string name="start">"התחל"</string>
+	<string name="investment">"השקעה"</string>
+	<string name="interest">"ריבית"</string>
+	<string name="end">"סוף"</string>
+	<string name="investment_summary">"כיף עובדה: אתה יודע, אם אתה מושקעים לראשונה %1$s לתוך קרנות נאמנות ב %2$s%% הריבית ואתה ממשיך להוסיף %3$s כל חודש, בסוף %4$d שנים היית צריך %5$s אשר %6$s%% גדול יותר ההשקעה הראשונית שלך. מתחם ריבית החיסכון המטרה"</string>
+	<string name="share">"שתף"</string>
+	<string name="little_extra">"זוהי דרך טובה יותר לחסוך כסף. חישוב קרן נאמנות שלך על ההשקעה ועוד, עם קרן נאמנות מחשבון App"</string>
+
+
+</resources>

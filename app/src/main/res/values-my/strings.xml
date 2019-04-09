@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"နှစ်ဦးနှစ်ဖက်အပြန်အလှန်ရန်ပုံငွေအဖွဲ့ Calculator ကို"</string>
+	<string name="sub_format">"တစ်နှစ်လျှင် %1$s %2$s %3$s%4$s%5$s"</string>
+	<string name="initial_investment">"ကနဦးရင်းနှီးမြှုပ်နှံမှု (စိမ်းဆမ်း)"</string>
+	<string name="monthly_investment">"လစဉ်ရင်းနှီးမြှုပ်နှံမှု"</string>
+	<string name="interest_per_annum">"(နှစ်စဉ်% Per) စိတ်ဝင်စားမှု"</string>
+	<string name="calculate_roi">"တွက်ချက်သည်"</string>
+	<string name="tenure_in_years">"နှစ်ခုနှစ်တွင်သက်တမ်း"</string>
+	<string name="details">"အသေးစိတ်"</string>
+	<string name="month">"လ"</string>
+	<string name="start">"စတင်"</string>
+	<string name="investment">"ရင်းနှီးမြှုပ်နှံမှု"</string>
+	<string name="interest">"စိတ်ဝင်စားမှု"</string>
+	<string name="end">"အဆုံး"</string>
+	<string name="investment_summary">"ပျော်စရာအဖြစ်မှန်: သင်ကနဦး %2$s%% မှအတိုးနှုန်းမှာအပြန်အလှန်ရန်ပုံငွေများသို့ %1$s ရင်းနှီးမြှုပ်နှံနှငျ့သငျလစဉ်လတိုင်း %3$s ထည့်သွင်းစောင့်ရှောက်လျှင်သင်သိပါနဲ့, %4$d နှစ်များရဲ့အဆုံးမှာသင်သည်သင်၏ကနဦးရင်းနှီးမြှုပ်နှံမှုထက် သာ. ကြီးမြတ် %6$s%% ဖြစ်သော %5$s ခဲ့ကြပေသည်။ compound အကျိုးစီးပွားချွေတာသုံးစွဲပန်းတိုင်"</string>
+	<string name="share">"ဝေစု"</string>
+	<string name="little_extra">"ဒါကပိုက်ဆံကယ်ဖို့ပိုကောင်းတဲ့နည်းလမ်းဖြစ်ပါတယ်။ အဆိုပါအပြန်အလှန်ရန်ပုံငွေအဖွဲ့ Calculator ကို App ကိုနှင့်အတူပိုမိုရင်းနှီးမြှုပ်နှံမှုပေါ်တွင်သင်၏အပြန်အလှန်ရန်ပုံငွေအဖွဲ့ပြန်သွားတွက်ချက်ခြင်းနှင့်"</string>
+
+
+</resources>

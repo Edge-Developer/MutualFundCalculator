@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"ماشین حساب متقابل"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s در سال"</string>
+	<string name="initial_investment">"سرمایه اولیه (مجموع کل)"</string>
+	<string name="monthly_investment">"سرمایه گذاری ماهانه"</string>
+	<string name="interest_per_annum">"علاقه (٪ در سال)"</string>
+	<string name="calculate_roi">"محاسبه"</string>
+	<string name="tenure_in_years">"مدت زمان در سال"</string>
+	<string name="details">"جزئیات"</string>
+	<string name="month">"ماه"</string>
+	<string name="start">"شروع کنید"</string>
+	<string name="investment">"سرمایه گذاری"</string>
+	<string name="interest">"علاقه"</string>
+	<string name="end">"پایان"</string>
+	<string name="investment_summary">"واقعیت سرگرمی: آیا می دانید اگر در ابتدا سرمایه گذاری %1$s را به صندوق های متقابل در نرخ بهره %2$s%% انجام دادید و شما هر ماه در %3$s اضافه کردید، در پایان سال های %4$d شما %5$s را بیشتر از %6$s%% سرمایه گذاری اولیه خود داشته اید. هدف جبران سود مرکب"</string>
+	<string name="share">"اشتراک گذاری"</string>
+	<string name="little_extra">"این یک راه بهتر برای صرفه جویی در پول است. با استفاده از برنامه سرمایه گذاری متقابل، محاسبه بازده صندوق متقابل شما در سرمایه گذاری و بیشتر"</string>
+
+
+</resources>

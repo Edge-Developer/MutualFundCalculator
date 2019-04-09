@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Calculadora de fondos mutuos"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s por año"</string>
+	<string name="initial_investment">"Inversión inicial (suma global)"</string>
+	<string name="monthly_investment">"Inversión mensual"</string>
+	<string name="interest_per_annum">"Intereses (por año de%)"</string>
+	<string name="calculate_roi">"Calcular"</string>
+	<string name="tenure_in_years">"Tenencia en años"</string>
+	<string name="details">"Detalles"</string>
+	<string name="month">"Mes"</string>
+	<string name="start">"comienzo"</string>
+	<string name="investment">"Inversión"</string>
+	<string name="interest">"Interesar"</string>
+	<string name="end">"Fin"</string>
+	<string name="investment_summary">"Dato curioso: ¿Sabe? Si inicialmente invirtió %1$s en fondos mutuos a una tasa de interés de %2$s%% y continúa agregando %3$s todos los meses, al final de los Años %4$d tendría %5$s, que es %6$s%% mayor que su inversión inicial. Objetivo de ahorro de interés compuesto"</string>
+	<string name="share">"Compartir"</string>
+	<string name="little_extra">"Esta es una mejor manera de ahorrar dinero. Calcule el retorno de su inversión en fondos mutuos y más, con la aplicación Calculadora de fondos mutuos"</string>
+
+
+</resources>

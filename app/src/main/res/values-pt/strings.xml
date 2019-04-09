@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Calculadora de fundos mútuos"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s por ano"</string>
+	<string name="initial_investment">"Investimento inicial (quantia fixa)"</string>
+	<string name="monthly_investment">"Investimento Mensal"</string>
+	<string name="interest_per_annum">"Juros (% por ano)"</string>
+	<string name="calculate_roi">"Calcular"</string>
+	<string name="tenure_in_years">"Posse em anos"</string>
+	<string name="details">"Detalhes"</string>
+	<string name="month">"Mês"</string>
+	<string name="start">"Começar"</string>
+	<string name="investment">"Investimento"</string>
+	<string name="interest">"Interesse"</string>
+	<string name="end">"Fim"</string>
+	<string name="investment_summary">"Fato interessante: Você sabe, se você inicialmente investiu %1$s em fundos mútuos na taxa de juros da %2$s%% e você continua adicionando %3$s todos os meses, no final de %4$d Years você teria %5$s que é %6$s%% maior do que seu investimento inicial. Objetivo de economia de juros compostos"</string>
+	<string name="share">"Compartilhar"</string>
+	<string name="little_extra">"Esta é uma maneira melhor de economizar dinheiro. Calcule o retorno do investimento em fundos mútuos e mais, com o aplicativo Calculadora do fundo mútuo"</string>
+
+
+</resources>

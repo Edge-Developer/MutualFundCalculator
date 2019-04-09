@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Kölcsönös Alap kalkulátor"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s évente"</string>
+	<string name="initial_investment">"Kezdeti befektetés (átalányösszeg)"</string>
+	<string name="monthly_investment">"Havi befektetés"</string>
+	<string name="interest_per_annum">"Kamat (évente%)"</string>
+	<string name="calculate_roi">"Kiszámítja"</string>
+	<string name="tenure_in_years">"Tulajdonságok években"</string>
+	<string name="details">"Részletek"</string>
+	<string name="month">"Hónap"</string>
+	<string name="start">"Rajt"</string>
+	<string name="investment">"Beruházás"</string>
+	<string name="interest">"Érdeklődés"</string>
+	<string name="end">"vég"</string>
+	<string name="investment_summary">"Szórakoztató tény: Tudod, ha kezdetben befektetett %1$s-t befektetési alapokba %2$s%%-kamatláb mellett, és minden hónapban hozzáadod a %3$s-t, az %4$d évek végén az %5$s-t, ami a %6$s%%-nél nagyobb lenne, mint a kezdeti befektetésed. Összetett kamatmegtakarítási cél"</string>
+	<string name="share">"Részvény"</string>
+	<string name="little_extra">"Ez jobb módja a pénz megtakarításának. Számítsd ki a befektetési alap megtérülését és többet a befektetési alap kalkulátor alkalmazásával"</string>
+
+
+</resources>

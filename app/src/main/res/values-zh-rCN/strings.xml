@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"共同基金计算器"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s每年"</string>
+	<string name="initial_investment">"初始投资（一次性）"</string>
+	<string name="monthly_investment">"每月投资"</string>
+	<string name="interest_per_annum">"利息（每年％）"</string>
+	<string name="calculate_roi">"计算"</string>
+	<string name="tenure_in_years">"多年的任期"</string>
+	<string name="details">"细节"</string>
+	<string name="month">"月"</string>
+	<string name="start">"开始"</string>
+	<string name="investment">"投资"</string>
+	<string name="interest">"利益"</string>
+	<string name="end">"结束"</string>
+	<string name="investment_summary">"有趣的事实：您知道吗，如果您最初以%2$s%%利率投入%1$s进入共同基金，并且您每月都会继续添加%3$s，那么在%4$d年末您将获得FFF，即GGG大于您的初始投资。复利节约目标"</string>
+	<string name="share">"分享"</string>
+	<string name="little_extra">"这是省钱的更好方法。使用共同基金计算器应用计算您的共同基金投资回报率等"</string>
+
+
+</resources>

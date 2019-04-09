@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"মিউচুয়াল ফান্ড ক্যালকুলেটর"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s প্রতি বছর"</string>
+	<string name="initial_investment">"প্রাথমিক বিনিয়োগ (ল্যাম্প যোগ)"</string>
+	<string name="monthly_investment">"মাসিক বিনিয়োগ"</string>
+	<string name="interest_per_annum">"সুদের (প্রতি বছর%)"</string>
+	<string name="calculate_roi">"গণনা করা"</string>
+	<string name="tenure_in_years">"বছরের মধ্যে সময়"</string>
+	<string name="details">"বিস্তারিত"</string>
+	<string name="month">"মাস"</string>
+	<string name="start">"শুরু"</string>
+	<string name="investment">"বিনিয়োগ"</string>
+	<string name="interest">"স্বার্থ"</string>
+	<string name="end">"শেষ"</string>
+	<string name="investment_summary">"মজা ঘটনা: আপনি যদি জানেন যে, আপনি যদি প্রাথমিকভাবে সিবিসি সুদের হারে বিবিবিতে মিউচুয়াল ফান্ডে বিনিয়োগ করেন এবং %4$d বছর শেষে আপনি প্রতি মাসে ডিডিডি যোগ করেন তবে আপনার প্রাথমিক বিনিয়োগের চেয়ে জি.জি.এফ. এর চেয়ে বেশি %5$s ছিল। যৌগিক সুদ সঞ্চয় লক্ষ্য"</string>
+	<string name="share">"ভাগ"</string>
+	<string name="little_extra">"এটি অর্থ সঞ্চয় করার একটি ভাল উপায়। মিউচুয়াল ফান্ড ক্যালকুলেটর অ্যাপ্লিকেশনের মাধ্যমে আপনার মিউচুয়াল ফান্ডের বিনিয়োগ এবং আরও অনেক কিছু নিয়ে গণনা করুন"</string>
+
+
+</resources>

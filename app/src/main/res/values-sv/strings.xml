@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Mutual Fund Calculator"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s per år"</string>
+	<string name="initial_investment">"Initial Investment (Lump Sum)"</string>
+	<string name="monthly_investment">"Månatlig investering"</string>
+	<string name="interest_per_annum">"Ränta (per år%)"</string>
+	<string name="calculate_roi">"Beräkna"</string>
+	<string name="tenure_in_years">"Tjänsten på år"</string>
+	<string name="details">"detaljer"</string>
+	<string name="month">"Månad"</string>
+	<string name="start">"Start"</string>
+	<string name="investment">"Investering"</string>
+	<string name="interest">"Intressera"</string>
+	<string name="end">"Slutet"</string>
+	<string name="investment_summary">"Rolig Fakta: Vet du om du initialt investerade %1$s i ömsesidiga fonder med %2$s%%-räntesats och du fortsätter att lägga till %3$s varje månad, i slutet av %4$d Years skulle du ha haft %5$s vilket är %6$s%% större än din ursprungliga investering. Sammansatt räntebesparingsmål"</string>
+	<string name="share">"Dela med sig"</string>
+	<string name="little_extra">"Detta är ett bättre sätt att spara pengar. Beräkna din ömsesidiga fondavkastning på investeringar och mer, med Mutual Fund Calculator App"</string>
+
+
+</resources>

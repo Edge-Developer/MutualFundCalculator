@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Rechner für den Fonds"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s pro Jahr"</string>
+	<string name="initial_investment">"Anfangsinvestition (Pauschalbetrag)"</string>
+	<string name="monthly_investment">"Monatliche Investition"</string>
+	<string name="interest_per_annum">"Zinsen (pro Jahr%)"</string>
+	<string name="calculate_roi">"Berechnung"</string>
+	<string name="tenure_in_years">"Amtszeit in Jahren"</string>
+	<string name="details">"Einzelheiten"</string>
+	<string name="month">"Monat"</string>
+	<string name="start">"Start"</string>
+	<string name="investment">"Investition"</string>
+	<string name="interest">"Interesse"</string>
+	<string name="end">"Ende"</string>
+	<string name="investment_summary">"Wissenswertes: Wissen Sie, wenn Sie %1$s zum ersten Mal zu einem Zinssatz von %2$s%% in Mutual Funds investiert haben und Sie jeden Monat %3$s hinzufügen, hätten Sie am Ende der %4$d-Jahre eine %5$s erhalten, die um mehr als Ihre ursprüngliche Investition liegt. Zinsergebnis Zinsziel"</string>
+	<string name="share">"Aktie"</string>
+	<string name="little_extra">"Dies ist ein besserer Weg, um Geld zu sparen. Berechnen Sie mit der Mutual Fund Calculator App die Rendite Ihres Investmentfonds und mehr"</string>
+
+
+</resources>

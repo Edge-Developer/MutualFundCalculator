@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Mutual Fund Calculator"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s Kwa Mwaka"</string>
+	<string name="initial_investment">"Uwekezaji wa awali (Sum Lump)"</string>
+	<string name="monthly_investment">"Uwekezaji wa kila mwezi"</string>
+	<string name="interest_per_annum">"Nia (Kwa Annum%)"</string>
+	<string name="calculate_roi">"Tumia"</string>
+	<string name="tenure_in_years">"Kuweka Katika Miaka"</string>
+	<string name="details">"Maelezo"</string>
+	<string name="month">"Mwezi"</string>
+	<string name="start">"Anza"</string>
+	<string name="investment">"Uwekezaji"</string>
+	<string name="interest">"Hamu"</string>
+	<string name="end">"Mwisho"</string>
+	<string name="investment_summary">"Jambo la Furaha: Je, unajua, Ikiwa Ulikuwa Uliwekeza %1$s katika Mfuko wa Mutual kwa kiwango cha riba cha %2$s%% na unaendelea kuongeza %3$s kila mwezi, mwisho wa %4$d Miaka ungekuwa na %5$s ambayo ni %6$s%% kubwa kuliko uwekezaji wa awali. Nia ya Akiba ya Kuokoa"</string>
+	<string name="share">"Shiriki"</string>
+	<string name="little_extra">"Hii ni njia bora ya kuokoa pesa. Tumia Mfuko wa Kurudi kwa Mfuko wa Uwekezaji na zaidi, pamoja na App Mutual Fund Calculator"</string>
+
+
+</resources>

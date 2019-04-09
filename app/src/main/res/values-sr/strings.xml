@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Мутуал Фунд Цалцулатор"</string>
+	<string name="sub_format">"ААААА годишње"</string>
+	<string name="initial_investment">"Иницијална инвестиција (паушална сума)"</string>
+	<string name="monthly_investment">"Монтхли Инвестмент"</string>
+	<string name="interest_per_annum">"Интересовање (по год.%)"</string>
+	<string name="calculate_roi">"Израчунај"</string>
+	<string name="tenure_in_years">"Трајање у годинама"</string>
+	<string name="details">"Детаљи"</string>
+	<string name="month">"Месец дана"</string>
+	<string name="start">"Почетак"</string>
+	<string name="investment">"Инвестиција"</string>
+	<string name="interest">"Интерес"</string>
+	<string name="end">"Крај"</string>
+	<string name="investment_summary">"Забавна чињеница: Да ли знате, ако сте иницијално уложили БББ у узајамне фондове по каматној стопи ЦЦЦ-а и наставите да додајете ДДД сваког месеца, на крају ЕЕЕ година имали бисте ФФФ који је ГГГ већи од почетног улагања. Циљ штедне камате"</string>
+	<string name="share">"Објави"</string>
+	<string name="little_extra">"Ово је бољи начин да се уштеди новац. Израчунајте свој узајамни фонд Поврат на инвестицију и још много тога, уз помоћ апликације Калкулатор узајамног фонда"</string>
+
+
+</resources>

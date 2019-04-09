@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Calculator ng Mutual Fund"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s Per Year"</string>
+	<string name="initial_investment">"Initial Investment (Lump Sum)"</string>
+	<string name="monthly_investment">"Buwanang Pamumuhunan"</string>
+	<string name="interest_per_annum">"Interes (Per Annum%)"</string>
+	<string name="calculate_roi">"Kalkulahin"</string>
+	<string name="tenure_in_years">"Pag-areglo Sa Taon"</string>
+	<string name="details">"Mga Detalye"</string>
+	<string name="month">"Buwan"</string>
+	<string name="start">"Magsimula"</string>
+	<string name="investment">"Pamumuhunan"</string>
+	<string name="interest">"Interes"</string>
+	<string name="end">"Dulo"</string>
+	<string name="investment_summary">"Katuwaan Katotohanan: Alam mo, Kung iyong Pinuhunan ang %1$s sa Mutual Funds sa interes ng %2$s%% at patuloy mong idagdag ang %3$s bawat buwan, sa katapusan ng Taon ng %4$d na mayroon kang %5$s na mas malaki kaysa sa iyong paunang puhunan. Compound Interest Savings Goal"</string>
+	<string name="share">"Ibahagi"</string>
+	<string name="little_extra">"Ito ay isang mas mahusay na paraan upang makatipid ng pera. Kalkulahin ang iyong Mutual Fund Return sa Investment at higit pa, kasama ang Mutual Fund Calculator App"</string>
+
+
+</resources>

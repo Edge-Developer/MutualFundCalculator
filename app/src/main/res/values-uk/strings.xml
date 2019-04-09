@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Пайовий калькулятор"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s на рік"</string>
+	<string name="initial_investment">"Початкові інвестиції (одноразова сума)"</string>
+	<string name="monthly_investment">"Щомісячні інвестиції"</string>
+	<string name="interest_per_annum">"Відсотки (за%)"</string>
+	<string name="calculate_roi">"Обчислити"</string>
+	<string name="tenure_in_years">"Оренда в роки"</string>
+	<string name="details">"Деталі"</string>
+	<string name="month">"Місяць"</string>
+	<string name="start">"Початок"</string>
+	<string name="investment">"Інвестиції"</string>
+	<string name="interest">"Інтерес"</string>
+	<string name="end">"Кінець"</string>
+	<string name="investment_summary">"Цікавий факт: Чи знаєте ви, якщо ви спочатку інвестували %1$s в пайові фонди за процентною ставкою %2$s%% і продовжуєте додавати %3$s щомісяця, то в кінці років %4$d ви б мали %5$s, що більше %6$s%%, ніж ваша початкова інвестиція. Мета складових накопичення відсотків"</string>
+	<string name="share">"Частка"</string>
+	<string name="little_extra">"Це кращий спосіб заощадити гроші. Розрахуйте дохідність інвестиційного фонду і більше, за допомогою програми калькулятора взаємного фонду"</string>
+
+
+</resources>

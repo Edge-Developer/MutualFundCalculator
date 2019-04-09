@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Calculator Fondul Mutual"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s pe an"</string>
+	<string name="initial_investment">"Investiție inițială (sumă forfetară)"</string>
+	<string name="monthly_investment">"Investiție lunară"</string>
+	<string name="interest_per_annum">"Dobândă (per annum%)"</string>
+	<string name="calculate_roi">"calculati"</string>
+	<string name="tenure_in_years">"Tranziție în ani"</string>
+	<string name="details">"Detalii"</string>
+	<string name="month">"Lună"</string>
+	<string name="start">"start"</string>
+	<string name="investment">"investiție"</string>
+	<string name="interest">"Interes"</string>
+	<string name="end">"Sfârșit"</string>
+	<string name="investment_summary">"Fun Facts: Știți, dacă ați investit inițial %1$s în fonduri mutuale la rata dobânzii %2$s%% și continuați să adăugați %3$s în fiecare lună, la sfârșitul anilor %4$d ar fi avut %5$s care este %6$s%% mai mare decât investiția inițială. Scopul economiilor de interese compuse"</string>
+	<string name="share">"Acțiune"</string>
+	<string name="little_extra">"Aceasta este o modalitate mai bună de a economisi bani. Calculați rentabilitatea investiției în fondurile mutuale și altele, cu aplicația Calculator fond mutual"</string>
+
+
+</resources>

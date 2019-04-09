@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Mutual Fund Calculator"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s per jaar"</string>
+	<string name="initial_investment">"Initiële investering (forfaitaire som)"</string>
+	<string name="monthly_investment">"Maandelijkse investering"</string>
+	<string name="interest_per_annum">"Rente (per jaar%)"</string>
+	<string name="calculate_roi">"Berekenen"</string>
+	<string name="tenure_in_years">"Tenure In Years"</string>
+	<string name="details">"Details"</string>
+	<string name="month">"Maand"</string>
+	<string name="start">"Begin"</string>
+	<string name="investment">"Investering"</string>
+	<string name="interest">"Interesseren"</string>
+	<string name="end">"Einde"</string>
+	<string name="investment_summary">"Leuk weetje: Weet je, als je %1$s aanvankelijk investeerde in beleggingsfondsen tegen het %2$s%%-rentetarief en je blijft elke maand %3$s toevoegen, dan zou je aan het eind van %4$d jaar %5$s hebben gehad, dat is %6$s%% groter dan je initiële investering. Samengesteld rentebesparingsdoel"</string>
+	<string name="share">"Delen"</string>
+	<string name="little_extra">"Dit is een betere manier om geld te besparen. Bereken uw wederzijds fonds rendement op investeringen en meer, met de Mutual Fund Calculator App"</string>
+
+
+</resources>

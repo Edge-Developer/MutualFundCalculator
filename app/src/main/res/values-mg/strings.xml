@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Tahirim-bola ho an'ny Tahirimbola"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s isan-taona"</string>
+	<string name="initial_investment">"Fampiasana voalohany (Sum Sum)"</string>
+	<string name="monthly_investment">"Monthly Investment"</string>
+	<string name="interest_per_annum">"Interest (Per Annum%)"</string>
+	<string name="calculate_roi">"kajy"</string>
+	<string name="tenure_in_years">"Tenimiafara isan-taona"</string>
+	<string name="details">"Details"</string>
+	<string name="month">"Month"</string>
+	<string name="start">"Start"</string>
+	<string name="investment">"fampiasam-bola"</string>
+	<string name="interest">"Interest"</string>
+	<string name="end">"Tapitra"</string>
+	<string name="investment_summary">"Fahamarinana mahatsikaiky: fantatrao ve, raha toa ianao ka nanombantombana %1$s teo amin'ny tahan'ny fifanakalozam-bola amin'ny %2$s%%, ary manohy mampiditra %3$s isam-bolana ianao, amin'ny faran'ny %4$d dia tokony hanana %5$s izay %6$s%% ambony noho ny fampiasanao voalohany. Zava-bola mahaliana"</string>
+	<string name="share">"Share"</string>
+	<string name="little_extra">"Ity dia fomba tsara kokoa hamonjena ny vola. Manararaotra ny vola hiverenanao amin'ny famatsiam-bola ary bebe kokoa, miaraka amin'ny Tahirim-bola Tahirimbolam-Antoko"</string>
+
+
+</resources>

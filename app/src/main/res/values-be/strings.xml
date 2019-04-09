@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Узаемную фонд Калькулятар"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s ў год"</string>
+	<string name="initial_investment">"Першапачатковыя інвестыцыі (Аднаразовыя)"</string>
+	<string name="monthly_investment">"штомесячны інвестыцыйны"</string>
+	<string name="interest_per_annum">"Працэнты (% гадавых)"</string>
+	<string name="calculate_roi">"падлічваць"</string>
+	<string name="tenure_in_years">"Тэрмін знаходжання ў гады"</string>
+	<string name="details">"дэталі"</string>
+	<string name="month">"месяц"</string>
+	<string name="start">"пачатак"</string>
+	<string name="investment">"інвестыцыі"</string>
+	<string name="interest">"цікавасць"</string>
+	<string name="end">"канец"</string>
+	<string name="investment_summary">"Цікавы факт: Вы ведаеце, калі вы ўкладаецца ГЭБ ў паявыя фонды ў КМС працэнтнай стаўцы, і вы працягвайце дадаваць %3$s кожны месяц, у канцы %4$d гадоў вы б мелі %5$s, які %6$s%% больш, чым вашы першапачатковыя інвестыцыі. Compound Interest Savings Мэта"</string>
+	<string name="share">"доля"</string>
+	<string name="little_extra">"Гэта лепшы спосаб зэканоміць грошы. Разлічыце Узаемны фонд вяртанне інвестыцый і больш, з ПІФ Калькулятар App"</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"የጋራ ፈንድ ሒሳብ ማሽን"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s በዓመት"</string>
+	<string name="initial_investment">"የመነሻ ኢንቬስትመንት (Lump Sum)"</string>
+	<string name="monthly_investment">"ወርሃዊ ኢንቨስትመንት"</string>
+	<string name="interest_per_annum">"ፍላጎት (በየአመቱ%)"</string>
+	<string name="calculate_roi">"ግምት"</string>
+	<string name="tenure_in_years">"በቋሚነት መኖር"</string>
+	<string name="details">"ዝርዝሮች"</string>
+	<string name="month">"ወር"</string>
+	<string name="start">"ይጀምሩ"</string>
+	<string name="investment">"ኢንቨስትመንት"</string>
+	<string name="interest">"ፍላጎት"</string>
+	<string name="end">"ጨርስ"</string>
+	<string name="investment_summary">"የደስታ ሀሳብ: መጀመሪያ ላይ ቢቢሲ በ %2$s%% የወለድ ፍሰት የመጀመሪያ ጊዜ ካደረጉ እና በየወሩ በ %3$s ላይ መጨመር ከጀመሩ በ %4$d ዘመን ማብቂያ ላይ እርስዎ ከዋናዋው ካፒታልዎ ይበልጥ %6$s%% የሚያመጣውን %5$s ያገኙ ነበር. የኮምፕሌተር ትርፍ ገንዘብ ቁጠባ ግብ"</string>
+	<string name="share">"አጋራ"</string>
+	<string name="little_extra">"ይህ ገንዘብን ለመቆጠብ የተሻለ መንገድ ነው. በሜታ ኢንቨስትመንት እና ሌሎችም በ Mutual Fund Calculator App ውስጥ የሜታር ፈንሽን ተመላሽዎን ያሰሉ"</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"เครื่องคำนวณกองทุนรวม"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s ต่อปี"</string>
+	<string name="initial_investment">"การลงทุนครั้งแรก (ก้อน Sum)"</string>
+	<string name="monthly_investment">"การลงทุนรายเดือน"</string>
+	<string name="interest_per_annum">"ดอกเบี้ย (ต่อปีต่อปี)"</string>
+	<string name="calculate_roi">"คำนวณ"</string>
+	<string name="tenure_in_years">"การครอบครองในปี"</string>
+	<string name="details">"รายละเอียด"</string>
+	<string name="month">"เดือน"</string>
+	<string name="start">"เริ่มต้น"</string>
+	<string name="investment">"การลงทุน"</string>
+	<string name="interest">"ดอกเบี้ย"</string>
+	<string name="end">"ปลาย"</string>
+	<string name="investment_summary">"ข้อเท็จจริงที่น่าสนใจ: คุณรู้ไหมว่าถ้าคุณลงทุนใน %1$s เป็นกองทุนรวมที่อัตราดอกเบี้ย %2$s%% และคุณเพิ่ม %3$s ทุกเดือนในตอนท้ายของ %4$d ปีคุณจะมี %5$s ซึ่งเป็น %6$s%% มากกว่าการลงทุนเริ่มต้น เป้าหมายการออมดอกเบี้ยทบต้น"</string>
+	<string name="share">"หุ้น"</string>
+	<string name="little_extra">"นี่เป็นวิธีที่ดีกว่าในการประหยัดเงิน คำนวณผลตอบแทนจากการลงทุนในกองทุนรวมของคุณและอีกมากมายด้วยแอพเครื่องคิดเลขกองทุนรวม"</string>
+
+
+</resources>

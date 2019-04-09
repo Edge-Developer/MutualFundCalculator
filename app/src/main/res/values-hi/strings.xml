@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"म्यूचुअल फंड कैलकुलेटर"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s प्रति वर्ष"</string>
+	<string name="initial_investment">"प्रारंभिक निवेश (एकमुश्त)"</string>
+	<string name="monthly_investment">"मासिक निवेश"</string>
+	<string name="interest_per_annum">"ब्याज (प्रति वर्ष%)"</string>
+	<string name="calculate_roi">"गणना"</string>
+	<string name="tenure_in_years">"वर्षों में कार्यकाल"</string>
+	<string name="details">"विवरण"</string>
+	<string name="month">"महीना"</string>
+	<string name="start">"शुरु"</string>
+	<string name="investment">"निवेश"</string>
+	<string name="interest">"ब्याज"</string>
+	<string name="end">"समाप्त"</string>
+	<string name="investment_summary">"मजेदार तथ्य: क्या आप जानते हैं, यदि आपने शुरू में %2$s%% ब्याज दर पर %1$s को म्यूचुअल फंड में निवेश किया है और आप हर महीने %3$s को जोड़ते रहते हैं, तो %4$d इयर के अंत में आपके पास %5$s होता जो कि आपके शुरुआती निवेश से ज्यादा %6$s%% होता है। चक्रवृद्धि ब्याज बचत लक्ष्य"</string>
+	<string name="share">"शेयर"</string>
+	<string name="little_extra">"यह पैसे बचाने का एक बेहतर तरीका है। म्यूचुअल फंड कैलकुलेटर ऐप के साथ अपने म्यूचुअल फंड रिटर्न इन्वेस्टमेंट और अधिक की गणना करें"</string>
+
+
+</resources>

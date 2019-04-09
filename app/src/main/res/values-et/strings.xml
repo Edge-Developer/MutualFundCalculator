@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Investeerimisfondide kalkulaator"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s aastas"</string>
+	<string name="initial_investment">"Esialgne investeering (ühekordne summa)"</string>
+	<string name="monthly_investment">"Kuuinvesteering"</string>
+	<string name="interest_per_annum">"Intress (aastamäära kohta)"</string>
+	<string name="calculate_roi">"Arvutama"</string>
+	<string name="tenure_in_years">"Tööaeg aastates"</string>
+	<string name="details">"Andmed"</string>
+	<string name="month">"Kuu"</string>
+	<string name="start">"Alusta"</string>
+	<string name="investment">"Investeeringud"</string>
+	<string name="interest">"Huvi"</string>
+	<string name="end">"Lõpp"</string>
+	<string name="investment_summary">"Fun Fact: Kas sa tead, kui te investeerisite %1$s-desse %2$s%% intressimääraga algselt %1$s-sse ja lisate %3$s-d igal kuul, siis oleksite %4$d aastate lõpus olnud %5$s, mis on %6$s%% suurem kui teie esialgne investeering. Kombineeritud intresside kokkuhoiu eesmärk"</string>
+	<string name="share">"Jaga"</string>
+	<string name="little_extra">"See on parem viis raha säästa. Arvutage oma investeerimisfondi investeeringutasuvus ja muu, kasutades investeerimisfondide kalkulaatorit"</string>
+
+
+</resources>

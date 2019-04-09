@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Kalkulator vzajemnega sklada"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s na leto"</string>
+	<string name="initial_investment">"Začetna naložba (pavšalni znesek)"</string>
+	<string name="monthly_investment">"Mesečna naložba"</string>
+	<string name="interest_per_annum">"Obresti (na% v%)"</string>
+	<string name="calculate_roi">"Izračunaj"</string>
+	<string name="tenure_in_years">"Zakup v letih"</string>
+	<string name="details">"Podrobnosti"</string>
+	<string name="month">"Mesec"</string>
+	<string name="start">"Začni"</string>
+	<string name="investment">"Naložbe"</string>
+	<string name="interest">"Zanimanje"</string>
+	<string name="end">"Konec"</string>
+	<string name="investment_summary">"Zabavno dejstvo: Ali veste, če ste prvotno naložili %1$s v vzajemne sklade na obrestno mero %2$s%% in še naprej dodajate %3$s vsak mesec, bi ob koncu %4$d letov imeli %5$s, ki je %6$s%% večji od začetne naložbe. Cilj sestavljenih prihrankov obresti"</string>
+	<string name="share">"Deliti"</string>
+	<string name="little_extra">"To je boljši način za prihranek denarja. Izračunajte svoj vzajemni sklad donosnosti naložb in še več, z aplikacijo Mutual Fund Calculator"</string>
+
+
+</resources>

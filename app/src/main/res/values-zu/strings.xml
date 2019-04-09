@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"I-Mutual Fund Calculator"</string>
+	<string name="sub_format">"I-%1$s %2$s %3$s%4$s%5$s Ngonyaka"</string>
+	<string name="initial_investment">"Ukutshalwa Kwezimali Zokuqala (Isamba Semali)"</string>
+	<string name="monthly_investment">"Investment Monthly"</string>
+	<string name="interest_per_annum">"Inzalo (Ngama-Annum%)"</string>
+	<string name="calculate_roi">"Bala"</string>
+	<string name="tenure_in_years">"Ukuhlala Eminyakeni"</string>
+	<string name="details">"Imininingwane"</string>
+	<string name="month">"Inyanga"</string>
+	<string name="start">"Qala"</string>
+	<string name="investment">"Investment"</string>
+	<string name="interest">"Inzalo"</string>
+	<string name="end">"Qeda"</string>
+	<string name="investment_summary">"Ukuzijabulisa: Uyazi, Uma Ekuqaleni Utshalisa I-%1$s ku-Mutual Funds ku-%2$s%% inzalo yesithakazelo futhi uqhubeka ungeza i-%3$s njalo ngenyanga, ekupheleni kwe-%4$d Iminyaka ngabe ngabe u-%5$s onguGGG omkhulu kunezokutshalwa kwakho kokuqala. Inhloso Yokulondoloza Inzalo Ehlanganisiwe"</string>
+	<string name="share">"Yabelana"</string>
+	<string name="little_extra">"Lena indlela engcono yokulondoloza imali. Bala i-Mutual Fund Return Yakho ku-Investment nokuningi, ne-Mutual Fund Calculator App"</string>
+
+
+</resources>

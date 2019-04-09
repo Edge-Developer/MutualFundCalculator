@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Qarşılıqlı Fond Kalkulyator"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s Yılda"</string>
+	<string name="initial_investment">"İlkin İnvestisiyalar (Birikimli Sum)"</string>
+	<string name="monthly_investment">"Aylıq İnvestisiya"</string>
+	<string name="interest_per_annum">"Faiz (İllik%)"</string>
+	<string name="calculate_roi">"Hesablayın"</string>
+	<string name="tenure_in_years">"Yılda Yaşasın"</string>
+	<string name="details">"Ətraflı məlumat"</string>
+	<string name="month">"Ay"</string>
+	<string name="start">"Başlamaq"</string>
+	<string name="investment">"İnvestisiya"</string>
+	<string name="interest">"Faiz"</string>
+	<string name="end">"Axırıncı"</string>
+	<string name="investment_summary">"Fun Fact: Bildiyiniz kimi, əvvəlcə %1$s-ni %2$s%% faiz dərəcəsi ilə qarşılıqlı fondlara yatırdınızsa və hər ay %3$s əlavə etsəniz, %4$d Yılları sonunda FGG-yə malik olursunuz. Komponentli faiz qənaət məqsədi"</string>
+	<string name="share">"Paylaş"</string>
+	<string name="little_extra">"Pul qazanmaq üçün daha yaxşı bir yoldur. Qarşılıqlı Fondu Yatırım Getiri və daha çox, qarşılıqlı fond Kalkulyator App ilə hesablayın"</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"뮤추얼 펀드 계산기"</string>
+	<string name="sub_format">"연간 %1$s %2$s %3$s%4$s%5$s"</string>
+	<string name="initial_investment">"초기 투자 (일괄 합산)"</string>
+	<string name="monthly_investment">"월간 투자"</string>
+	<string name="interest_per_annum">"이자 (연 1 %)"</string>
+	<string name="calculate_roi">"계산하다"</string>
+	<string name="tenure_in_years">"수년간 재직"</string>
+	<string name="details">"세부"</string>
+	<string name="month">"달"</string>
+	<string name="start">"스타트"</string>
+	<string name="investment">"투자"</string>
+	<string name="interest">"관심"</string>
+	<string name="end">"종료"</string>
+	<string name="investment_summary">"재미있는 사실 : 처음에 %1$s를 %2$s%% 이자율로 뮤추얼 펀드에 투자하고 매월 %3$s를 계속 추가하는 경우, %4$d Year가 끝날 때 초기 투자액보다 큰 %6$s%% 인 FFF를 얻었을 것입니다. 복합 관심 분야 저축 목표"</string>
+	<string name="share">"몫"</string>
+	<string name="little_extra">"이것은 돈을 저축하는 더 좋은 방법입니다. 뮤추얼 펀드 계산기 앱으로 뮤추얼 펀드 투자 수익 등을 계산하십시오."</string>
+
+
+</resources>

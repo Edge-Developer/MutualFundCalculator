@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"حاسبة صناديق الاستثمار"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s في السنة"</string>
+	<string name="initial_investment">"الاستثمار الأولي (المبلغ الإجمالي)"</string>
+	<string name="monthly_investment">"الاستثمار الشهري"</string>
+	<string name="interest_per_annum">"الفائدة (سنويا ٪)"</string>
+	<string name="calculate_roi">"حساب"</string>
+	<string name="tenure_in_years">"الحيازة في السنوات"</string>
+	<string name="details">"تفاصيل"</string>
+	<string name="month">"شهر"</string>
+	<string name="start">"بداية"</string>
+	<string name="investment">"استثمار"</string>
+	<string name="interest">"فائدة"</string>
+	<string name="end">"النهاية"</string>
+	<string name="investment_summary">"حقيقة ممتعة: هل تعلم ، إذا كنت تستثمر %1$s مبدئيًا في صناديق الاستثمار بسعر فائدة %2$s%% وتواصل إضافة %3$s كل شهر ، في نهاية سنوات %4$d ، سيكون لديك %5$s وهو %6$s%% أكبر من استثمارك الأولي. الفائدة المركبة هدف الادخار"</string>
+	<string name="share">"شارك"</string>
+	<string name="little_extra">"هذه طريقة أفضل لتوفير المال. احسب عائد صندوق الاستثمار المشترك على الاستثمار وأكثر من ذلك ، من خلال تطبيق حاسبة صناديق الاستثمار"</string>
+
+
+</resources>

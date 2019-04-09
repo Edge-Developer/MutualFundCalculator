@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Калкулатор за заеднички фондови"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s годишно"</string>
+	<string name="initial_investment">"Почетна инвестиција (паушална сума)"</string>
+	<string name="monthly_investment">"Месечна инвестиција"</string>
+	<string name="interest_per_annum">"Камата (за еден месец%)"</string>
+	<string name="calculate_roi">"Пресметај"</string>
+	<string name="tenure_in_years">"Мандат по години"</string>
+	<string name="details">"Детали"</string>
+	<string name="month">"Месец"</string>
+	<string name="start">"Започнете"</string>
+	<string name="investment">"Инвестиции"</string>
+	<string name="interest">"Интерес"</string>
+	<string name="end">"Крај"</string>
+	<string name="investment_summary">"Забавно факт: Дали знаете, ако првично инвестирале %1$s во взаемни фондови во каматна стапка на %2$s%% и постојано додавате %3$s секој месец, на крајот на %4$d години ќе имате %5$s кое е %6$s%% поголемо од вашата почетна инвестиција. Целна заштеда на целниот интерес"</string>
+	<string name="share">"Сподели"</string>
+	<string name="little_extra">"Ова е подобар начин да заштедите пари. Пресметајте го взаемниот влог за взаемна инвестиција и повеќе, со апликацијата за калкулатор за заемно фонд"</string>
+
+
+</resources>

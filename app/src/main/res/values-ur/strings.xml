@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"ملٹی فنڈ کیلکولیٹر"</string>
+	<string name="sub_format">"اے اے اے ای اے فی سال"</string>
+	<string name="initial_investment">"ابتدائی سرمایہ کاری (لوپ سم)"</string>
+	<string name="monthly_investment">"ماہانہ سرمایہ کاری"</string>
+	<string name="interest_per_annum">"دلچسپی (فی مہینہ٪)"</string>
+	<string name="calculate_roi">"حساب کریں"</string>
+	<string name="tenure_in_years">"سال میں ٹائم"</string>
+	<string name="details">"تفصیلات"</string>
+	<string name="month">"مہینے"</string>
+	<string name="start">"شروع کریں"</string>
+	<string name="investment">"سرمایہ کاری"</string>
+	<string name="interest">"دلچسپی"</string>
+	<string name="end">"اختتام"</string>
+	<string name="investment_summary">"تفریح ​​حقیقت: کیا آپ جانتے ہیں، اگر آپ سی سی سی سود کی شرح میں باہمی فنڈز میں ابتدائی بی بی بی کو مدعو کرتے ہیں اور آپ کو ای ای ای سال کے اختتام میں ہر مہینے ڈی ڈی ڈی میں رکھنا باقی ہے تو آپ کو ایف ایف ایف جو آپ کی ابتدائی سرمایہ کاری سے زیادہ ہے. کمپاؤنڈ دلچسپی بچت کا مقصد"</string>
+	<string name="share">"بانٹیں"</string>
+	<string name="little_extra">"یہ پیسہ بچانے کا ایک بہتر طریقہ ہے. Mutual Fund کیلکولیٹر اے پی پی کے ساتھ سرمایہ کاری پر زیادہ سے زیادہ، اپنے Mutual فن کی واپسی کا حساب لگائیں"</string>
+
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Хамтын сангийн тооцоолуур"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s жил"</string>
+	<string name="initial_investment">"Эхний хөрөнгө оруулалт (нийт дүнгээр)"</string>
+	<string name="monthly_investment">"Сарын хөрөнгө оруулалт"</string>
+	<string name="interest_per_annum">"Хүү (Аннумын хувь)"</string>
+	<string name="calculate_roi">"Тооцоолоо"</string>
+	<string name="tenure_in_years">"Жилд эзэмших эрх"</string>
+	<string name="details">"Дэлгэрэнгүй мэдээлэл"</string>
+	<string name="month">"Сар"</string>
+	<string name="start">"Эхлээд"</string>
+	<string name="investment">"Хөрөнгө оруулалт"</string>
+	<string name="interest">"Хүү"</string>
+	<string name="end">"Төгсгөл"</string>
+	<string name="investment_summary">"Сонирхолтой баримт: Та %1$s-г эхлээд хөрөнгө оруулалтын хүүгийн түвшинд харилцан солилцох сангаасаа эхэлж хөрөнгө оруулалт хийж, сар бүр %3$s-г нэмж, %4$d-ийн жилийн эцэст %6$s%%-ийн анхны хөрөнгө оруулалтаас илүү их %5$s байсан байх. Хүүгийн хуримтлалын зорилт"</string>
+	<string name="share">"Хуваалцах"</string>
+	<string name="little_extra">"Энэ бол мөнгө хэмнэх илүү сайн арга юм. Хөрөнгө оруулалтын талаархи харилцан ойлголцох сангийн өгөөжийг тооцоолон, бусадтай хамтран Хамтдаа Санхүүгийн Тооцооллын Аппликэйшнийг ашиглана"</string>
+
+
+</resources>

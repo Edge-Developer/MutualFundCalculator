@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Kalkulator uzajamnog fonda"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s godišnje"</string>
+	<string name="initial_investment">"Početno ulaganje (paušalni iznos)"</string>
+	<string name="monthly_investment">"Mjesečna ulaganja"</string>
+	<string name="interest_per_annum">"Interes (za godišnji%)"</string>
+	<string name="calculate_roi">"Izračunati"</string>
+	<string name="tenure_in_years">"Zakupnina godina"</string>
+	<string name="details">"Detalji"</string>
+	<string name="month">"Mjesec"</string>
+	<string name="start">"Početak"</string>
+	<string name="investment">"Ulaganje"</string>
+	<string name="interest">"Interes"</string>
+	<string name="end">"Kraj"</string>
+	<string name="investment_summary">"Zabavna činjenica: Znate li, ako ste u početku uložili %1$s u uzajamne fondove u %2$s%% kamatnoj stopi i nastavite s dodavanjem %3$s-a svaki mjesec, na kraju %4$d godina imali biste %5$s koji je veći od početnog ulaganja. Cilj štednje složenih kamata"</string>
+	<string name="share">"Udio"</string>
+	<string name="little_extra">"Ovo je bolji način uštede novca. Izračunajte svoj uzajamni fond povrat na ulaganja i više, uz uzajamnog fonda Kalkulator App"</string>
+
+
+</resources>

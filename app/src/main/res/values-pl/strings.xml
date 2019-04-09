@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Kalkulator funduszy inwestycyjnych"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s rocznie"</string>
+	<string name="initial_investment">"Początkowa inwestycja (suma ryczałtowa)"</string>
+	<string name="monthly_investment">"Miesięczna inwestycja"</string>
+	<string name="interest_per_annum">"Odsetki (na%%)"</string>
+	<string name="calculate_roi">"Obliczać"</string>
+	<string name="tenure_in_years">"Kadencja w latach"</string>
+	<string name="details">"Detale"</string>
+	<string name="month">"Miesiąc"</string>
+	<string name="start">"Początek"</string>
+	<string name="investment">"Inwestycja"</string>
+	<string name="interest">"Zainteresowanie"</string>
+	<string name="end">"Koniec"</string>
+	<string name="investment_summary">"Zabawny fakt: czy wiesz, że jeśli początkowo zainwestowałeś %1$s w fundusze wzajemne według stopy procentowej %2$s%% i co miesiąc dodajesz %3$s, pod koniec lat %4$d miałbyś %5$s, który jest większy niż %6$s%% w stosunku do początkowej inwestycji. Cel oszczędności odsetek złożonych"</string>
+	<string name="share">"Dzielić"</string>
+	<string name="little_extra">"To lepszy sposób na zaoszczędzenie pieniędzy. Oblicz swój zwrot z inwestycji w fundusz inwestycyjny i więcej, korzystając z aplikacji Mutual Fund Calculator"</string>
+
+
+</resources>

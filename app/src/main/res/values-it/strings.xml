@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+
+	<string name="app_name">"Calcolatore del fondo comune"</string>
+	<string name="sub_format">"%1$s %2$s %3$s%4$s%5$s all'anno"</string>
+	<string name="initial_investment">"Investimento iniziale (somma forfettaria)"</string>
+	<string name="monthly_investment">"Investimento mensile"</string>
+	<string name="interest_per_annum">"Interesse (% annuo)"</string>
+	<string name="calculate_roi">"Calcolare"</string>
+	<string name="tenure_in_years">"Tenersi in anni"</string>
+	<string name="details">"Dettagli"</string>
+	<string name="month">"Mese"</string>
+	<string name="start">"Inizio"</string>
+	<string name="investment">"Investimento"</string>
+	<string name="interest">"Interesse"</string>
+	<string name="end">"Fine"</string>
+	<string name="investment_summary">"Curiosità: lo sai, se investi inizialmente %1$s in fondi comuni a tasso di interesse %2$s%% e continui ad aggiungere %3$s ogni mese, alla fine di %4$d Years avresti avuto %5$s, che è %6$s%% maggiore del tuo investimento iniziale. Obiettivo di risparmio degli interessi composti"</string>
+	<string name="share">"Condividere"</string>
+	<string name="little_extra">"Questo è un modo migliore per risparmiare denaro. Calcola il ritorno sull'investimento in fondi comuni e altro ancora con l'app per il calcolo del fondo comune"</string>
+
+
+</resources>
